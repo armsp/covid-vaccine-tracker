@@ -1,0 +1,4 @@
+pandas
+geopandas
+altair
+requests_html
