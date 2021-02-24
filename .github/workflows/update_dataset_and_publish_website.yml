@@ -29,13 +29,11 @@ jobs:
               working-directory: ${{ github.workspace }}
               run: |
                     export PYTHONDONTWRITEBYTECODE=1
-                    pwd
-                    git status
                     python owd_util.py
                     python nyt_util.py
                     # python chart_util.py
+                    git add .
                     git status
-                    ls -a
 
             - name: Setup Git Environment
               run: |
@@ -55,11 +53,9 @@ jobs:
               run: |
                     echo "${{ env.changes_exist }}"
 
-
             - name: Commit Datasets
               if: env.changes_exist == 'true'
               run: |
-                    git add .
                     git commit -m "updating datasets"
                     git push
 
