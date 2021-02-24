@@ -49,7 +49,7 @@ jobs:
 
             - name: Debug changes
               run: |
-                    echo $env.changes_exist
+                    echo "${{ env.changes_exist }}"
 
 
             - name: Commit Datasets
