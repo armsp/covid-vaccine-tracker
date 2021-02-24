@@ -36,8 +36,8 @@ jobs:
                     git status
                     git diff-index --quiet HEAD --
                     echo $?
-                    git diff --quiet
-                    echo $?
+                    # git diff --quiet
+                    # echo $?
 
             - name: Setup Git Environment
               run: |
