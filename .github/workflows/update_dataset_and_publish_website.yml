@@ -34,7 +34,7 @@ jobs:
                     # python chart_util.py
                     git add .
                     git status
-                    git diff-index --quiet HEAD || git commit -m "updating datasets"
+                    # git diff-index --quiet HEAD || git commit -m "updating datasets"
                     # echo "$?"
                     # git diff --quiet
                     # echo $?
@@ -57,6 +57,7 @@ jobs:
             - name: Debug changes
               run: |
                     echo "${{ env.changes_exist }}"
+                    git diff-index --quiet HEAD || git commit -m "updating datasets"
 
             - name: Commit Datasets
               if: env.changes_exist == 'true'
