@@ -32,12 +32,6 @@ jobs:
                     python owd_util.py
                     python nyt_util.py
                     # python chart_util.py
-                    git add .
-                    git status
-                    # git diff-index --quiet HEAD || git commit -m "updating datasets"
-                    # echo "$?"
-                    # git diff --quiet
-                    # echo $?
 
             - name: Setup Git Environment
               run: |
