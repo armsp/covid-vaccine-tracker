@@ -54,11 +54,11 @@ jobs:
                     git diff-index --quiet HEAD || git commit -m "updating datasets"
                     git push
 
-            - name: Commit Datasets
-              if: env.changes_exist == 'true'
-              run: |
-                    git commit -m "updating datasets"
-                    git push
+            # - name: Commit Datasets # This blocks behaviour is just the opposite
+            #   if: env.changes_exist == 'true'
+            #   run: |
+            #         git commit -m "updating datasets"
+            #         git push
 
             - name: Make gh-pages branch and commit
               run: |
