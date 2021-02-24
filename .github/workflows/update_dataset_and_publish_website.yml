@@ -34,8 +34,8 @@ jobs:
                     # python chart_util.py
                     git add .
                     git status
-                    # git diff-index --quiet HEAD || git commit -m "updating datasets"
-                    echo "$?"
+                    git diff-index --quiet HEAD || git commit -m "updating datasets"
+                    # echo "$?"
                     # git diff --quiet
                     # echo $?
 

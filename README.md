@@ -6,14 +6,14 @@ This is a fully automated pipeline that runs daily. It collects and parses data 
 
 Visualization Website [Under Construction]: https://armsp.github.io/covid-vaccine-tracker
 
-### Sources
+## Sources
 
 - NYT Source: https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html
 - Our World in Data Source: https://ourworldindata.org/covid-vaccinations
 
 Datasets are updated once a day if there is a change.
 
-### Datasets
+## Datasets
 
 #### NYT Datasets
 
@@ -26,7 +26,7 @@ The `nt_util.py` script scrapes the NYT Tracker website and forms the dataset fo
 
 The `owd_util.py` file gets the `location.csv` data from the [OWID Covid-19 Data repository](https://github.com/owid/covid-19-data) and saves it in the _owd_datasets_ folder.
 
-#### Coming Soon
+### Coming Soon
 
 Notebooks to show processing, merging and making of geospatial charts using the datasets.
 
@@ -39,3 +39,8 @@ If these files helped you in anyway then please consider donating so that I can 
 | Ko-Fi (5 $) | PayPal |
 | :---: | :---: |
 | <a href='https://ko-fi.com/D1D41SHIS' target='_blank'><img height='40' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' alt='Buy Me a Coffee at ko-fi.com' /></a> | <a href="https://paypal.me/shantamraj" target="_blank"><img height='40' src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png" alt="PayPal" /></a>|
+
+---
+
+### Change Log
+
