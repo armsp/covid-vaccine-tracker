@@ -4,7 +4,7 @@ This repository contains dataset on the various vaccines that are in development
 
 This is a fully automated pipeline that runs daily. It collects and parses data from the sources listed below and commits them to the repo - all done using GitHub actions workflow. There are two branches - **main** and **gh-pages**. **main** holds the datasets and scripts for collecting parsing and saving datasets. **gh-pages** has the files for the visualization website.
 
-Visualization Website [Under Construction]: https://armsp.github.io/covid-vaccine-tracker
+## [Visualization Website](https://armsp.github.io/covid-vaccine-tracker)
 
 ## Sources
 
@@ -15,14 +15,14 @@ Datasets are updated once a day if there is a change.
 
 ## Datasets
 
-#### NYT Datasets
+#### NYT datasets
 
 The `nt_util.py` script scrapes the NYT Tracker website and forms the dataset for vaccines in various phases and stages of approval.
 
 - **nyt_approved_vaccine.csv** - Contains the dataset for all the approved vaccines around the world.
 - Others are coming...
 
-#### Our World in Data Dataset
+#### Our World in Data dataset
 
 The `owd_util.py` file gets the `location.csv` data from the [OWID Covid-19 Data repository](https://github.com/owid/covid-19-data) and saves it in the _owd_datasets_ folder.
 
