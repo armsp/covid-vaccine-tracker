@@ -68,7 +68,7 @@ jobs:
                     git add -f index.html
                     git commit -m "updating charts"
                     git rm -rf .
-                    git checkout HEAD -- index.html
+                    git checkout HEAD -- index.html style.css
                     git add .
                     git commit -m "deleting files from main"
                     git push -u -f origin gh-pages
