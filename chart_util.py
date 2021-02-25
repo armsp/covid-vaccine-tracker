@@ -1,3 +1,4 @@
+import datetime
 import altair as alt
 import pandas as pd
 import geopandas as gpd
@@ -13,6 +14,7 @@ chart_template = """
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@{vegalite_version}"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@{vegaembed_version}"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-projection-extended@2"></script>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -21,9 +23,14 @@ chart_template = """
 <script type="text/javascript">
   vegaEmbed('#vis', {spec}, {kwargs}).catch(console.error);
 </script>
+<span class="update-time">Updated at {update_time}</span>
 </body>
 </html>
 """
+
+def get_time():
+    current_time = str(datetime.datetime.utcnow())
+    return current_time
 
 @lru_cache
 def get_shapefiles():
@@ -64,6 +71,7 @@ def make_owd_chart():
 def modify_owd_chart(chart):
     with open('index.html', 'w+') as f:
         f.write(chart_template.format(
+            update_time=get_time(),
             vega_version=alt.VEGA_VERSION,
             vegalite_version=alt.VEGALITE_VERSION,
             vegaembed_version=alt.VEGAEMBED_VERSION,
@@ -73,6 +81,7 @@ def modify_owd_chart(chart):
         f.seek(0)
         filedata = f.read()
         filedata = filedata.replace('equalEarth', 'eckert3')
+
 
 if __name__=='__main__':
     chart = make_owd_chart()
