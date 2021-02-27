@@ -23,7 +23,7 @@ chart_template = """
 <script type="text/javascript">
   vegaEmbed('#vis', {spec}, {kwargs}).catch(console.error);
 </script>
-<span class="update-time">Updated at {update_time}</span>
+<span class="update_time">Updated at {update_time}</span>
 </body>
 </html>
 """
