@@ -17,7 +17,7 @@ Datasets are updated once a day if there is a change.
 
 #### NYT datasets
 
-The `nt_util.py` script scrapes the NYT Tracker website and forms the dataset for vaccines in various phases and stages of approval.
+The `nyt_util.py` script scrapes the NYT Tracker website and forms the dataset for vaccines in various phases and stages of approval.
 
 - **nyt_approved_vaccine.csv** - Contains the dataset for all the approved vaccines around the world.
 - Others are coming...
