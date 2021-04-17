@@ -42,8 +42,9 @@ def get_vaccine_location_df_from_selector(extracted_selector_list):
 def cleaned_vaccines_location_df(df):
     df['Early use in'] = df['Early use in'].str.rstrip(' .') #remove dots in the end
     df['Limited use in'] = df['Limited use in'].str.rstrip(' .').str.replace('NEW', '') #remove dots in the end and NEW
-    df['Emergency use in'] = df['Emergency use in'].str.replace('NEW', '').str.replace("Emergency use validation from the World Health Organization",'').str.rstrip(' .') #remove dots in the end and NEW, "Emergency use validation from the World Health Organization."
+    df['Emergency use in'] = df['Emergency use in'].str.replace('NEW', '').str.replace("Emergency use validation from the World Health Organization",'').str.rstrip(' .').str.replace("Endorsed by the Africa Regulatory Taskforce. Recommended for emergency use by the Caribbean Regulatory System", '').str.rstrip(' .') #remove dots in the end and NEW, "Emergency use validation from the World Health Organization."
     df['Approved for use in'] = df['Approved for use in'].str.rstrip(' .').str.replace('NEW', '') #remove NEW and .
+    df['Stopped use in'] = df['Stopped use in'].str.rstrip(' .')#.str.replace('NEW', '') #remove NEW and .
     df = df .drop(columns=['None'])
     return df
 
@@ -52,6 +53,7 @@ def processed_vaccines_location_df(cleaned_df):
     cleaned_df['Emergency use in'] = cleaned_df['Emergency use in'].apply(lambda x: list(map(str.strip, x.split(','))) if pd.notna(x) else x)
     cleaned_df['Limited use in'] = cleaned_df['Limited use in'].apply(lambda x: list(map(str.strip, x.split(','))) if pd.notna(x) else x)
     cleaned_df['Early use in'] = cleaned_df['Early use in'].apply(lambda x: list(map(str.strip, x.split(','))) if pd.notna(x) else x)
+    cleaned_df['Stopped use in'] = cleaned_df['Stopped use in'].apply(lambda x: list(map(str.strip, x.split(','))) if pd.notna(x) else x)
     return cleaned_df
 
 def get_approved_vaccines():
