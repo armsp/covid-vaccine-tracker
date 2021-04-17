@@ -6,6 +6,8 @@ This is a fully automated pipeline that runs daily. It collects and parses data 
 
 ## [Visualization Website](https://armsp.github.io/covid-vaccine-tracker)
 
+![Website Screenshot](website.png)
+
 ## Sources
 
 - NYT Source: https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html
