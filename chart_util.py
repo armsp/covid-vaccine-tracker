@@ -1,4 +1,5 @@
 import datetime
+import requests
 import altair as alt
 import pandas as pd
 import geopandas as gpd
@@ -34,9 +35,11 @@ def get_time():
 
 @lru_cache
 def get_shapefiles():
-    uri_50m = "https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/50m/cultural/ne_50m_admin_0_countries.zip"
-    uri_110m = "https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_countries.zip"
-    countries_raw = gpd.read_file(uri_50m)
+    #uri_50m = "https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/50m/cultural/ne_50m_admin_0_countries.zip" # this redirects to the following url
+    uri_50m = "https://naciscdn.org/naturalearth/50m/cultural/ne_50m_admin_0_countries.zip" # works
+    #uri_110m = "https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_countries.zip"
+    #stream = requests.get(uri_50m, stream=True).raw
+    countries_raw = gpd.read_file(uri_50m) #uri_50m also works
 
     countries_map = countries_raw.drop(columns=list(countries_raw.columns[:17]) + list(countries_raw.columns[18:46]) + list(countries_raw.columns[47:-1]))
     countries_map = countries_map.rename(columns={'ISO_A3': 'iso_code'})
