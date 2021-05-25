@@ -2,54 +2,54 @@ location,iso_code,vaccines,last_observation_date,source_name,source_website
 Afghanistan,AFG,Oxford/AstraZeneca,2021-05-20,World Health Organization,https://covid19.who.int/
 Afghanistan,AFG,Pfizer/BioNTech,2021-05-20,World Health Organization,https://covid19.who.int/
 Afghanistan,AFG,Sinopharm/Beijing,2021-05-20,World Health Organization,https://covid19.who.int/
-Albania,ALB,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-708846-vaksinime/
-Albania,ALB,Pfizer/BioNTech,2021-05-21,Ministry of Health,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-708846-vaksinime/
-Albania,ALB,Sinovac,2021-05-21,Ministry of Health,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-708846-vaksinime/
-Albania,ALB,Sputnik V,2021-05-21,Ministry of Health,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-708846-vaksinime/
+Albania,ALB,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-716616-vaksinime/
+Albania,ALB,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-716616-vaksinime/
+Albania,ALB,Sinovac,2021-05-23,Ministry of Health,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-716616-vaksinime/
+Albania,ALB,Sputnik V,2021-05-23,Ministry of Health,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-716616-vaksinime/
 Algeria,DZA,Sputnik V,2021-02-19,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
 Andorra,AND,Oxford/AstraZeneca,2021-05-17,Government of Andorra,https://www.govern.ad/covid19_newsletter/
 Andorra,AND,Pfizer/BioNTech,2021-05-17,Government of Andorra,https://www.govern.ad/covid19_newsletter/
 Angola,AGO,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
 Anguilla,AIA,Oxford/AstraZeneca,2021-05-17,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/photos/1458056911215547
-Antigua and Barbuda,ATG,Oxford/AstraZeneca,2021-05-17,Ministry of Health,https://www.facebook.com/investingforwellness/photos/pcb.1168194326953873/1168194280287211/
-Argentina,ARG,Oxford/AstraZeneca,2021-05-22,Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
-Argentina,ARG,Sinopharm/Beijing,2021-05-22,Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
-Argentina,ARG,Sputnik V,2021-05-22,Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Antigua and Barbuda,ATG,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.274442642995717/1170044350102204/
+Argentina,ARG,Oxford/AstraZeneca,2021-05-23,Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,Sinopharm/Beijing,2021-05-23,Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,Sputnik V,2021-05-23,Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
 Armenia,ARM,Oxford/AstraZeneca,2021-05-16,Ministry of Health,https://www.moh.am/#1/3906
 Armenia,ARM,Sinovac,2021-05-16,Ministry of Health,https://www.moh.am/#1/3906
 Armenia,ARM,Sputnik V,2021-05-16,Ministry of Health,https://www.moh.am/#1/3906
-Aruba,ABW,Pfizer/BioNTech,2021-05-22,Government of Aruba,https://www.government.aw
-Australia,AUS,Oxford/AstraZeneca,2021-05-22,Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
-Australia,AUS,Pfizer/BioNTech,2021-05-22,Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
-Austria,AUT,Johnson&Johnson,2021-05-22,Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
-Austria,AUT,Moderna,2021-05-22,Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
-Austria,AUT,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
-Austria,AUT,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
-Azerbaijan,AZE,Oxford/AstraZeneca,2021-05-22,Government of Azerbaijan,https://koronavirusinfo.az
-Azerbaijan,AZE,Sinovac,2021-05-22,Government of Azerbaijan,https://koronavirusinfo.az
-Azerbaijan,AZE,Sputnik V,2021-05-22,Government of Azerbaijan,https://koronavirusinfo.az
-Bahamas,BHS,Oxford/AstraZeneca,2021-05-14,Government of the Bahamas,https://covid19.who.int/region/amro/country/bs
-Bahrain,BHR,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://healthalert.gov.bh/en/
-Bahrain,BHR,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://healthalert.gov.bh/en/
-Bahrain,BHR,Sinopharm/Beijing,2021-05-22,Ministry of Health,https://healthalert.gov.bh/en/
-Bahrain,BHR,Sputnik V,2021-05-22,Ministry of Health,https://healthalert.gov.bh/en/
-Bangladesh,BGD,Oxford/AstraZeneca,2021-05-20,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
-Barbados,BRB,Oxford/AstraZeneca,2021-05-20,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4222804154418289/
+Aruba,ABW,Pfizer/BioNTech,2021-05-23,Government of Aruba,https://www.government.aw
+Australia,AUS,Oxford/AstraZeneca,2021-05-23,Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,Pfizer/BioNTech,2021-05-23,Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Austria,AUT,Johnson&Johnson,2021-05-23,Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,Moderna,2021-05-23,Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Azerbaijan,AZE,Oxford/AstraZeneca,2021-05-23,Government of Azerbaijan,https://koronavirusinfo.az
+Azerbaijan,AZE,Sinovac,2021-05-23,Government of Azerbaijan,https://koronavirusinfo.az
+Azerbaijan,AZE,Sputnik V,2021-05-23,Government of Azerbaijan,https://koronavirusinfo.az
+Bahamas,BHS,Oxford/AstraZeneca,2021-05-21,Government of the Bahamas,https://www.facebook.com/opmbs/posts/817591312296181
+Bahrain,BHR,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,Sinopharm/Beijing,2021-05-23,Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,Sputnik V,2021-05-23,Ministry of Health,https://healthalert.gov.bh/en/
+Bangladesh,BGD,Oxford/AstraZeneca,2021-05-22,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php
+Barbados,BRB,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4228968023801902/
 Belarus,BLR,Sputnik V,2021-05-21,Ministry of Health,https://eng.belta.by/society/view/belarus-covid-19-update-1756-new-cases-1725-recoveries-140097-2021/
-Belgium,BEL,Johnson&Johnson,2021-05-21,Sciensano,https://epistat.wiv-isp.be/covid/
-Belgium,BEL,Moderna,2021-05-21,Sciensano,https://epistat.wiv-isp.be/covid/
-Belgium,BEL,Oxford/AstraZeneca,2021-05-21,Sciensano,https://epistat.wiv-isp.be/covid/
-Belgium,BEL,Pfizer/BioNTech,2021-05-21,Sciensano,https://epistat.wiv-isp.be/covid/
-Belize,BLZ,Oxford/AstraZeneca,2021-05-19,Ministry of Health,https://www.facebook.com/Belizehealth/photos/a.1410495949248816/2688626778102387/
-Belize,BLZ,Sinopharm/Beijing,2021-05-19,Ministry of Health,https://www.facebook.com/Belizehealth/photos/a.1410495949248816/2688626778102387/
-Benin,BEN,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
-Benin,BEN,Sinovac,2021-05-21,World Health Organization,https://covid19.who.int/
+Belgium,BEL,Johnson&Johnson,2021-05-23,Sciensano,https://epistat.wiv-isp.be/covid/
+Belgium,BEL,Moderna,2021-05-23,Sciensano,https://epistat.wiv-isp.be/covid/
+Belgium,BEL,Oxford/AstraZeneca,2021-05-23,Sciensano,https://epistat.wiv-isp.be/covid/
+Belgium,BEL,Pfizer/BioNTech,2021-05-23,Sciensano,https://epistat.wiv-isp.be/covid/
+Belize,BLZ,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://www.facebook.com/Belizehealth/photos/a.1410495949248816/2689943684637363/
+Belize,BLZ,Sinopharm/Beijing,2021-05-21,Ministry of Health,https://www.facebook.com/Belizehealth/photos/a.1410495949248816/2689943684637363/
+Benin,BEN,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://covid19.who.int/
+Benin,BEN,Sinovac,2021-05-21,Ministry of Health,https://covid19.who.int/
 Bermuda,BMU,Pfizer/BioNTech,2021-05-17,Government of Bermuda,https://bernews.com/2021/05/may1820215-30pm-video-govt-covid-19-press-conference/
-Bhutan,BTN,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://www.facebook.com/MoHBhutan/photos/a.999012646827018/4184490054945912/
-Bolivia,BOL,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://www.boliviasegura.gob.bo/index.php/category/estadistica/
-Bolivia,BOL,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://www.boliviasegura.gob.bo/index.php/category/estadistica/
-Bolivia,BOL,Sinopharm/Beijing,2021-05-22,Ministry of Health,https://www.boliviasegura.gob.bo/index.php/category/estadistica/
-Bolivia,BOL,Sputnik V,2021-05-22,Ministry of Health,https://www.boliviasegura.gob.bo/index.php/category/estadistica/
+Bhutan,BTN,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://www.facebook.com/MoHBhutan/photos/a.999012646827018/4187707844624133/
+Bolivia,BOL,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://www.boliviasegura.gob.bo/index.php/category/estadistica/
+Bolivia,BOL,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://www.boliviasegura.gob.bo/index.php/category/estadistica/
+Bolivia,BOL,Sinopharm/Beijing,2021-05-23,Ministry of Health,https://www.boliviasegura.gob.bo/index.php/category/estadistica/
+Bolivia,BOL,Sputnik V,2021-05-23,Ministry of Health,https://www.boliviasegura.gob.bo/index.php/category/estadistica/
 Bonaire Sint Eustatius and Saba,BES,Moderna,2021-04-09,World Health Organization,https://covid19.who.int/
 Bonaire Sint Eustatius and Saba,BES,Pfizer/BioNTech,2021-04-09,World Health Organization,https://covid19.who.int/
 Bosnia and Herzegovina,BIH,Oxford/AstraZeneca,2021-05-18,Public Health Institute,https://www.novosti.rs/republika-srpska/vesti/997890/vakcinu-primilo-48-000-gradjana-ubrzava-imunizacija-stanovnistva-protiv-virusa-korona-republici-srpskoj
@@ -57,37 +57,37 @@ Bosnia and Herzegovina,BIH,Pfizer/BioNTech,2021-05-18,Public Health Institute,ht
 Bosnia and Herzegovina,BIH,Sinovac,2021-05-18,Public Health Institute,https://www.novosti.rs/republika-srpska/vesti/997890/vakcinu-primilo-48-000-gradjana-ubrzava-imunizacija-stanovnistva-protiv-virusa-korona-republici-srpskoj
 Bosnia and Herzegovina,BIH,Sputnik V,2021-05-18,Public Health Institute,https://www.novosti.rs/republika-srpska/vesti/997890/vakcinu-primilo-48-000-gradjana-ubrzava-imunizacija-stanovnistva-protiv-virusa-korona-republici-srpskoj
 Botswana,BWA,Oxford/AstraZeneca,2021-05-14,Ministry of Health and Wellness,https://www.facebook.com/BotswanaGovernment/posts/4011137672302194
-Brazil,BRA,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html
-Brazil,BRA,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html
-Brazil,BRA,Sinovac,2021-05-22,Ministry of Health,https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html
+Brazil,BRA,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html
+Brazil,BRA,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html
+Brazil,BRA,Sinovac,2021-05-23,Ministry of Health,https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html
 Brunei,BRN,Oxford/AstraZeneca,2021-05-19,Ministry of Health,https://www.thestar.com.my/aseanplus/aseanplus-news/2021/05/22/country039s-vaccination-drive-on-track-says-brunei-minister
-Bulgaria,BGR,Johnson&Johnson,2021-05-22,Ministry of Health,https://coronavirus.bg/bg/statistika
-Bulgaria,BGR,Moderna,2021-05-22,Ministry of Health,https://coronavirus.bg/bg/statistika
-Bulgaria,BGR,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://coronavirus.bg/bg/statistika
-Bulgaria,BGR,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://coronavirus.bg/bg/statistika
-Cambodia,KHM,Oxford/AstraZeneca,2021-05-22,Ministry of Health,http://www.freshnewsasia.com/index.php/en/localnews/198725-2021-05-22-14-23-20.html
-Cambodia,KHM,Sinopharm/Beijing,2021-05-22,Ministry of Health,http://www.freshnewsasia.com/index.php/en/localnews/198725-2021-05-22-14-23-20.html
-Cambodia,KHM,Sinovac,2021-05-22,Ministry of Health,http://www.freshnewsasia.com/index.php/en/localnews/198725-2021-05-22-14-23-20.html
+Bulgaria,BGR,Johnson&Johnson,2021-05-23,Ministry of Health,https://coronavirus.bg/bg/statistika
+Bulgaria,BGR,Moderna,2021-05-23,Ministry of Health,https://coronavirus.bg/bg/statistika
+Bulgaria,BGR,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://coronavirus.bg/bg/statistika
+Bulgaria,BGR,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://coronavirus.bg/bg/statistika
+Cambodia,KHM,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://www.facebook.com/MinistryofHealthofCambodia/posts/4057416140964128
+Cambodia,KHM,Sinopharm/Beijing,2021-05-23,Ministry of Health,https://www.facebook.com/MinistryofHealthofCambodia/posts/4057416140964128
+Cambodia,KHM,Sinovac,2021-05-23,Ministry of Health,https://www.facebook.com/MinistryofHealthofCambodia/posts/4057416140964128
 Cameroon,CMR,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
 Cameroon,CMR,Sinopharm/Beijing,2021-05-21,World Health Organization,https://covid19.who.int/
-Canada,CAN,Moderna,2021-05-22,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
-Canada,CAN,Oxford/AstraZeneca,2021-05-22,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
-Canada,CAN,Pfizer/BioNTech,2021-05-22,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+Canada,CAN,Moderna,2021-05-23,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+Canada,CAN,Oxford/AstraZeneca,2021-05-23,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
+Canada,CAN,Pfizer/BioNTech,2021-05-23,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html
 Cape Verde,CPV,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
 Cape Verde,CPV,Pfizer/BioNTech,2021-05-21,World Health Organization,https://covid19.who.int/
 Cayman Islands,CYM,Oxford/AstraZeneca,2021-05-21,Cayman Islands Government,https://www.exploregov.ky/coronavirus-statistics
 Cayman Islands,CYM,Pfizer/BioNTech,2021-05-21,Cayman Islands Government,https://www.exploregov.ky/coronavirus-statistics
 Central African Republic,CAF,Covaxin,2021-05-12,World Health Organization,https://covid19.who.int/
 Central African Republic,CAF,Oxford/AstraZeneca,2021-05-12,World Health Organization,https://covid19.who.int/
-Chile,CHL,Oxford/AstraZeneca,2021-05-20,Department of Statistics and Health Information,https://www.gob.cl/yomevacuno/
-Chile,CHL,Pfizer/BioNTech,2021-05-20,Department of Statistics and Health Information,https://www.gob.cl/yomevacuno/
-Chile,CHL,Sinovac,2021-05-20,Department of Statistics and Health Information,https://www.gob.cl/yomevacuno/
-China,CHN,Sinopharm/Beijing,2021-05-22,National Health Commission,http://www.nhc.gov.cn/xcs/yqjzqk/202105/7221884f11274319884d8b117459c980.shtml
-China,CHN,Sinopharm/Wuhan,2021-05-22,National Health Commission,http://www.nhc.gov.cn/xcs/yqjzqk/202105/7221884f11274319884d8b117459c980.shtml
-China,CHN,Sinovac,2021-05-22,National Health Commission,http://www.nhc.gov.cn/xcs/yqjzqk/202105/7221884f11274319884d8b117459c980.shtml
-Colombia,COL,Oxford/AstraZeneca,2021-05-20,Ministry of Health,https://www.minsalud.gov.co/salud/publica/Vacunacion/PublishingImages/Vacunas%20covid/200521_post_vacunas_covid.jpg
-Colombia,COL,Pfizer/BioNTech,2021-05-20,Ministry of Health,https://www.minsalud.gov.co/salud/publica/Vacunacion/PublishingImages/Vacunas%20covid/200521_post_vacunas_covid.jpg
-Colombia,COL,Sinovac,2021-05-20,Ministry of Health,https://www.minsalud.gov.co/salud/publica/Vacunacion/PublishingImages/Vacunas%20covid/200521_post_vacunas_covid.jpg
+Chile,CHL,Oxford/AstraZeneca,2021-05-22,Department of Statistics and Health Information,https://www.gob.cl/yomevacuno/
+Chile,CHL,Pfizer/BioNTech,2021-05-22,Department of Statistics and Health Information,https://www.gob.cl/yomevacuno/
+Chile,CHL,Sinovac,2021-05-22,Department of Statistics and Health Information,https://www.gob.cl/yomevacuno/
+China,CHN,Sinopharm/Beijing,2021-05-23,National Health Commission,http://www.nhc.gov.cn/xcs/yqjzqk/202105/afbb6bb24f864a7ba1db6614198ed694.shtml
+China,CHN,Sinopharm/Wuhan,2021-05-23,National Health Commission,http://www.nhc.gov.cn/xcs/yqjzqk/202105/afbb6bb24f864a7ba1db6614198ed694.shtml
+China,CHN,Sinovac,2021-05-23,National Health Commission,http://www.nhc.gov.cn/xcs/yqjzqk/202105/afbb6bb24f864a7ba1db6614198ed694.shtml
+Colombia,COL,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://www.minsalud.gov.co/salud/publica/Vacunacion/PublishingImages/Vacunas%20covid/230521_post_vacunas_covid.jpg.jpeg
+Colombia,COL,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://www.minsalud.gov.co/salud/publica/Vacunacion/PublishingImages/Vacunas%20covid/230521_post_vacunas_covid.jpg.jpeg
+Colombia,COL,Sinovac,2021-05-22,Ministry of Health,https://www.minsalud.gov.co/salud/publica/Vacunacion/PublishingImages/Vacunas%20covid/230521_post_vacunas_covid.jpg.jpeg
 Comoros,COM,Covaxin,2021-05-21,World Health Organization,https://covid19.who.int/
 Comoros,COM,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
 Comoros,COM,Sinopharm/Beijing,2021-05-21,World Health Organization,https://covid19.who.int/
@@ -97,81 +97,81 @@ Congo,COG,Sinopharm/Beijing,2021-05-18,World Health Organization,https://covid19
 Congo,COG,Sputnik V,2021-05-18,World Health Organization,https://covid19.who.int/
 Costa Rica,CRI,Oxford/AstraZeneca,2021-05-17,Costa Rican Social Security Fund,https://www.ccss.sa.cr/web/coronavirus/vacunacion
 Costa Rica,CRI,Pfizer/BioNTech,2021-05-17,Costa Rican Social Security Fund,https://www.ccss.sa.cr/web/coronavirus/vacunacion
-Cote d'Ivoire,CIV,Oxford/AstraZeneca,2021-05-21,Ministry of Health and Public Hygiene,https://www.facebook.com/mshpcmu/posts/1908167929348892
-Croatia,HRV,Moderna,2021-05-22,Ministry of Health,https://www.koronavirus.hr
-Croatia,HRV,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://www.koronavirus.hr
-Croatia,HRV,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://www.koronavirus.hr
-Cuba,CUB,Abdala,2021-05-19,Ministry of Health,https://www.prensa-latina.cu/index.php?o=rn&id=450169&SEO=mas-de-740-mil-vacunados-en-cuba-con-candidatos-anticovid-19
-Cuba,CUB,Soberana02,2021-05-19,Ministry of Health,https://www.prensa-latina.cu/index.php?o=rn&id=450169&SEO=mas-de-740-mil-vacunados-en-cuba-con-candidatos-anticovid-19
-Curacao,CUW,Moderna,2021-05-22,Government of Curacao,https://bakuna.cw/
-Curacao,CUW,Pfizer/BioNTech,2021-05-22,Government of Curacao,https://bakuna.cw/
-Cyprus,CYP,Johnson&Johnson,2021-05-21,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
-Cyprus,CYP,Moderna,2021-05-21,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
-Cyprus,CYP,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
-Cyprus,CYP,Pfizer/BioNTech,2021-05-21,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
-Czechia,CZE,Johnson&Johnson,2021-05-22,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,CZE,Moderna,2021-05-22,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,CZE,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,CZE,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+Cote d'Ivoire,CIV,Oxford/AstraZeneca,2021-05-23,Ministry of Health and Public Hygiene,https://www.facebook.com/mshpcmu/posts/1909804992518519
+Croatia,HRV,Moderna,2021-05-23,Ministry of Health,https://www.koronavirus.hr
+Croatia,HRV,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://www.koronavirus.hr
+Croatia,HRV,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://www.koronavirus.hr
+Cuba,CUB,Abdala,2021-05-23,Ministry of Health,https://twitter.com/MINSAPCuba/status/1396477091407872000
+Cuba,CUB,Soberana02,2021-05-23,Ministry of Health,https://twitter.com/MINSAPCuba/status/1396477091407872000
+Curacao,CUW,Moderna,2021-05-23,Government of Curacao,https://bakuna.cw/
+Curacao,CUW,Pfizer/BioNTech,2021-05-23,Government of Curacao,https://bakuna.cw/
+Cyprus,CYP,Johnson&Johnson,2021-05-23,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
+Cyprus,CYP,Moderna,2021-05-23,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
+Cyprus,CYP,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
+Cyprus,CYP,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://www.moh.gov.cy/moh/moh.nsf/All/0EFA027144C9E54AC22586BE0032B2F5
+Czechia,CZE,Johnson&Johnson,2021-05-23,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,CZE,Moderna,2021-05-23,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,CZE,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,CZE,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19
 Democratic Republic of Congo,COD,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
-Denmark,DNK,Moderna,2021-05-21,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/vaccinationstilslutning
-Denmark,DNK,Pfizer/BioNTech,2021-05-21,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/vaccinationstilslutning
+Denmark,DNK,Moderna,2021-05-23,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/vaccinationstilslutning
+Denmark,DNK,Pfizer/BioNTech,2021-05-23,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/vaccinationstilslutning
 Djibouti,DJI,Oxford/AstraZeneca,2021-04-28,World Health Organization,https://covid19.who.int/
 Djibouti,DJI,Sinopharm/Beijing,2021-04-28,World Health Organization,https://covid19.who.int/
 Djibouti,DJI,Sputnik V,2021-04-28,World Health Organization,https://covid19.who.int/
-Dominica,DMA,Oxford/AstraZeneca,2021-05-17,Government of Dominica,https://www.facebook.com/MinistryOfHealthDominica/photos/a.105730227736978/315970793379586/
-Dominican Republic,DOM,Oxford/AstraZeneca,2021-05-21,Ministry of Public Health,https://vacunate.gob.do/
-Dominican Republic,DOM,Sinopharm/Beijing,2021-05-21,Ministry of Public Health,https://vacunate.gob.do/
-Dominican Republic,DOM,Sinovac,2021-05-21,Ministry of Public Health,https://vacunate.gob.do/
-Ecuador,ECU,Oxford/AstraZeneca,2021-05-20,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid
-Ecuador,ECU,Pfizer/BioNTech,2021-05-20,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid
-Ecuador,ECU,Sinovac,2021-05-20,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid
-Egypt,EGY,Oxford/AstraZeneca,2021-05-11,World Health Organization,https://covid19.who.int/
-Egypt,EGY,Sinopharm/Beijing,2021-05-11,World Health Organization,https://covid19.who.int/
-Egypt,EGY,Sinovac,2021-05-11,World Health Organization,https://covid19.who.int/
-Egypt,EGY,Sputnik V,2021-05-11,World Health Organization,https://covid19.who.int/
+Dominica,DMA,Oxford/AstraZeneca,2021-05-18,Government of Dominica,https://dominica.gov.dm/images/coronavirus/May-18-th-2021-Dominica_coronavirus_updated_report.jpg
+Dominican Republic,DOM,Oxford/AstraZeneca,2021-05-22,Ministry of Public Health,https://vacunate.gob.do/
+Dominican Republic,DOM,Sinopharm/Beijing,2021-05-22,Ministry of Public Health,https://vacunate.gob.do/
+Dominican Republic,DOM,Sinovac,2021-05-22,Ministry of Public Health,https://vacunate.gob.do/
+Ecuador,ECU,Oxford/AstraZeneca,2021-05-22,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid
+Ecuador,ECU,Pfizer/BioNTech,2021-05-22,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid
+Ecuador,ECU,Sinovac,2021-05-22,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid
+Egypt,EGY,Oxford/AstraZeneca,2021-05-22,World Health Organization,https://covid19.who.int/
+Egypt,EGY,Sinopharm/Beijing,2021-05-22,World Health Organization,https://covid19.who.int/
+Egypt,EGY,Sinovac,2021-05-22,World Health Organization,https://covid19.who.int/
+Egypt,EGY,Sputnik V,2021-05-22,World Health Organization,https://covid19.who.int/
 El Salvador,SLV,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://covid19.gob.sv/
 El Salvador,SLV,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://covid19.gob.sv/
 El Salvador,SLV,Sinovac,2021-05-22,Ministry of Health,https://covid19.gob.sv/
-England,OWID_ENG,Moderna,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-England,OWID_ENG,Oxford/AstraZeneca,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-England,OWID_ENG,Pfizer/BioNTech,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-Equatorial Guinea,GNQ,Sinopharm/Beijing,2021-05-18,Ministry of Health,https://guineasalud.org/estadisticas/
-Estonia,EST,Johnson&Johnson,2021-05-22,National Health Board,https://opendata.digilugu.ee
-Estonia,EST,Moderna,2021-05-22,National Health Board,https://opendata.digilugu.ee
-Estonia,EST,Oxford/AstraZeneca,2021-05-22,National Health Board,https://opendata.digilugu.ee
-Estonia,EST,Pfizer/BioNTech,2021-05-22,National Health Board,https://opendata.digilugu.ee
+England,OWID_ENG,Moderna,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+England,OWID_ENG,Oxford/AstraZeneca,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+England,OWID_ENG,Pfizer/BioNTech,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Equatorial Guinea,GNQ,Sinopharm/Beijing,2021-05-22,Ministry of Health,https://guineasalud.org/estadisticas/
+Estonia,EST,Johnson&Johnson,2021-05-23,National Health Board,https://opendata.digilugu.ee
+Estonia,EST,Moderna,2021-05-23,National Health Board,https://opendata.digilugu.ee
+Estonia,EST,Oxford/AstraZeneca,2021-05-23,National Health Board,https://opendata.digilugu.ee
+Estonia,EST,Pfizer/BioNTech,2021-05-23,National Health Board,https://opendata.digilugu.ee
 Eswatini,SWZ,Oxford/AstraZeneca,2021-05-13,Government of Eswatini,https://twitter.com/EswatiniGovern1/status/1392874186671075331
-Ethiopia,ETH,Oxford/AstraZeneca,2021-05-19,Ministry of Health,https://twitter.com/FMoHealth/status/1395085132369911819
-Faeroe Islands,FRO,Moderna,2021-05-22,Government of the Faeroe Islands,https://corona.fo/api
-Faeroe Islands,FRO,Pfizer/BioNTech,2021-05-22,Government of the Faeroe Islands,https://corona.fo/api
+Ethiopia,ETH,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://twitter.com/FMoHealth/status/1396528590330683401
+Faeroe Islands,FRO,Moderna,2021-05-23,Government of the Faeroe Islands,https://corona.fo/api
+Faeroe Islands,FRO,Pfizer/BioNTech,2021-05-23,Government of the Faeroe Islands,https://corona.fo/api
 Falkland Islands,FLK,Oxford/AstraZeneca,2021-04-14,Government of the Falkland Islands,https://www.facebook.com/FalkIandsGov/posts/4401230323224594
 Fiji,FJI,Oxford/AstraZeneca,2021-05-11,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
-Finland,FIN,Moderna,2021-05-22,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov?column=measure-533185.533172.433796.533175&row=cov_vac_dose-533174L
-Finland,FIN,Oxford/AstraZeneca,2021-05-22,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov?column=measure-533185.533172.433796.533175&row=cov_vac_dose-533174L
-Finland,FIN,Pfizer/BioNTech,2021-05-22,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov?column=measure-533185.533172.433796.533175&row=cov_vac_dose-533174L
-France,FRA,Johnson&Johnson,2021-05-21,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
-France,FRA,Moderna,2021-05-21,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
-France,FRA,Oxford/AstraZeneca,2021-05-21,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
-France,FRA,Pfizer/BioNTech,2021-05-21,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+Finland,FIN,Moderna,2021-05-23,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov?column=measure-533185.533172.433796.533175&row=cov_vac_dose-533174L
+Finland,FIN,Oxford/AstraZeneca,2021-05-23,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov?column=measure-533185.533172.433796.533175&row=cov_vac_dose-533174L
+Finland,FIN,Pfizer/BioNTech,2021-05-23,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov?column=measure-533185.533172.433796.533175&row=cov_vac_dose-533174L
+France,FRA,Johnson&Johnson,2021-05-22,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+France,FRA,Moderna,2021-05-22,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+France,FRA,Oxford/AstraZeneca,2021-05-22,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
+France,FRA,Pfizer/BioNTech,2021-05-22,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/
 French Polynesia,PYF,Oxford/AstraZeneca,2021-05-18,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
-Gabon,GAB,Sinopharm/Beijing,2021-05-05,Ministry of Health,https://www.facebook.com/Covid19GOUVGA/photos/a.111308650479592/294524228824699
-Gambia,GMB,Oxford/AstraZeneca,2021-05-11,Ministry of Health,https://www.moh.gov.gm/wp-content/uploads/2021/05/GMB_COVID-19_Situational_Report_2021_17th_May_No_315.pdf
-Georgia,GEO,Oxford/AstraZeneca,2021-05-21,Government of Georgia,https://www.facebook.com/ncdcgeorgia/photos/a.126526410768631/4014117682009465/
+Gabon,GAB,Sinopharm/Beijing,2021-05-17,Ministry of Health,https://twitter.com/SanteGOUVGA/status/1394595022247497731
+Gambia,GMB,Oxford/AstraZeneca,2021-05-18,Ministry of Health,https://www.moh.gov.gm/wp-content/uploads/2021/05/GMB_COVID-19_Situational_Report_2021_21st_May_No_319.pdf
+Georgia,GEO,Oxford/AstraZeneca,2021-05-22,Government of Georgia,https://www.facebook.com/ncdcgeorgia/photos/a.846665862088012/4017230541698179/
 Germany,DEU,Johnson&Johnson,2021-05-21,Robert Koch Institut,https://impfdashboard.de/
 Germany,DEU,Moderna,2021-05-21,Robert Koch Institut,https://impfdashboard.de/
 Germany,DEU,Oxford/AstraZeneca,2021-05-21,Robert Koch Institut,https://impfdashboard.de/
 Germany,DEU,Pfizer/BioNTech,2021-05-21,Robert Koch Institut,https://impfdashboard.de/
 Ghana,GHA,Oxford/AstraZeneca,2021-05-07,Government of Ghana,https://www.ghanahealthservice.org/covid19/press-releases.php
-Gibraltar,GIB,Pfizer/BioNTech,2021-05-19,Government of Gibraltar,https://twitter.com/GibraltarGov/status/1394996702801711111
+Gibraltar,GIB,Pfizer/BioNTech,2021-05-22,Government of Gibraltar,https://twitter.com/GibraltarGov/status/1396069102280757257
 Greece,GRC,Johnson&Johnson,2021-05-22,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
 Greece,GRC,Moderna,2021-05-22,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
 Greece,GRC,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
 Greece,GRC,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/
 Greenland,GRL,Pfizer/BioNTech,2021-05-21,Government of Greenland,https://corona.nun.gl/emner/statistik/antal_vaccinerede
 Grenada,GRD,Oxford/AstraZeneca,2021-05-11,Government of Grenada,https://www.facebook.com/HealthGrenada/photos/a.570448523487244/1012889499243142/
-Guatemala,GTM,Moderna,2021-05-21,Ministry of Health,https://gtmvigilanciacovid.shinyapps.io/3869aac0fb95d6baf2c80f19f2da5f98
-Guatemala,GTM,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://gtmvigilanciacovid.shinyapps.io/3869aac0fb95d6baf2c80f19f2da5f98
+Guatemala,GTM,Moderna,2021-05-22,Ministry of Health,https://gtmvigilanciacovid.shinyapps.io/3869aac0fb95d6baf2c80f19f2da5f98
+Guatemala,GTM,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://gtmvigilanciacovid.shinyapps.io/3869aac0fb95d6baf2c80f19f2da5f98
 Guernsey,GGY,Moderna,2021-05-21,Government of Guernsey,https://covid19.gov.gg/guidance/vaccine/stats
 Guernsey,GGY,Oxford/AstraZeneca,2021-05-21,Government of Guernsey,https://covid19.gov.gg/guidance/vaccine/stats
 Guernsey,GGY,Pfizer/BioNTech,2021-05-21,Government of Guernsey,https://covid19.gov.gg/guidance/vaccine/stats
@@ -184,64 +184,65 @@ Honduras,HND,Johnson&Johnson,2021-05-21,Government of Honduras,https://ais.paho.
 Honduras,HND,Moderna,2021-05-21,Government of Honduras,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
 Honduras,HND,Oxford/AstraZeneca,2021-05-21,Government of Honduras,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
 Honduras,HND,Sputnik V,2021-05-21,Government of Honduras,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp
-Hong Kong,HKG,Pfizer/BioNTech,2021-05-22,Government of Hong Kong,https://www.covidvaccine.gov.hk/en/dashboard
-Hong Kong,HKG,Sinovac,2021-05-22,Government of Hong Kong,https://www.covidvaccine.gov.hk/en/dashboard
-Hungary,HUN,Moderna,2021-05-22,Government of Hungary,https://koronavirus.gov.hu/cikkek/5-millio-6-ezer-beoltott-416-az-uj-fertozott-elhunyt-44-beteg
-Hungary,HUN,Oxford/AstraZeneca,2021-05-22,Government of Hungary,https://koronavirus.gov.hu/cikkek/5-millio-6-ezer-beoltott-416-az-uj-fertozott-elhunyt-44-beteg
-Hungary,HUN,Pfizer/BioNTech,2021-05-22,Government of Hungary,https://koronavirus.gov.hu/cikkek/5-millio-6-ezer-beoltott-416-az-uj-fertozott-elhunyt-44-beteg
-Hungary,HUN,Sinopharm/Beijing,2021-05-22,Government of Hungary,https://koronavirus.gov.hu/cikkek/5-millio-6-ezer-beoltott-416-az-uj-fertozott-elhunyt-44-beteg
-Hungary,HUN,Sputnik V,2021-05-22,Government of Hungary,https://koronavirus.gov.hu/cikkek/5-millio-6-ezer-beoltott-416-az-uj-fertozott-elhunyt-44-beteg
+Hong Kong,HKG,Pfizer/BioNTech,2021-05-23,Government of Hong Kong,https://www.covidvaccine.gov.hk/en/dashboard
+Hong Kong,HKG,Sinovac,2021-05-23,Government of Hong Kong,https://www.covidvaccine.gov.hk/en/dashboard
+Hungary,HUN,Moderna,2021-05-23,Government of Hungary,https://koronavirus.gov.hu/cikkek/5-millio-23-ezer-beoltott-258-az-uj-fertozott-elhunyt-41-beteg
+Hungary,HUN,Oxford/AstraZeneca,2021-05-23,Government of Hungary,https://koronavirus.gov.hu/cikkek/5-millio-23-ezer-beoltott-258-az-uj-fertozott-elhunyt-41-beteg
+Hungary,HUN,Pfizer/BioNTech,2021-05-23,Government of Hungary,https://koronavirus.gov.hu/cikkek/5-millio-23-ezer-beoltott-258-az-uj-fertozott-elhunyt-41-beteg
+Hungary,HUN,Sinopharm/Beijing,2021-05-23,Government of Hungary,https://koronavirus.gov.hu/cikkek/5-millio-23-ezer-beoltott-258-az-uj-fertozott-elhunyt-41-beteg
+Hungary,HUN,Sputnik V,2021-05-23,Government of Hungary,https://koronavirus.gov.hu/cikkek/5-millio-23-ezer-beoltott-258-az-uj-fertozott-elhunyt-41-beteg
 Iceland,ISL,Johnson&Johnson,2021-05-21,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
 Iceland,ISL,Moderna,2021-05-21,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
 Iceland,ISL,Oxford/AstraZeneca,2021-05-21,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
 Iceland,ISL,Pfizer/BioNTech,2021-05-21,Directorate of Health,https://www.covid.is/tolulegar-upplysingar-boluefni
-India,IND,Covaxin,2021-05-22,Government of India,https://dashboard.cowin.gov.in/
-India,IND,Oxford/AstraZeneca,2021-05-22,Government of India,https://dashboard.cowin.gov.in/
-Indonesia,IDN,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://vaksin.kemkes.go.id/#/vaccines
-Indonesia,IDN,Sinovac,2021-05-21,Ministry of Health,https://vaksin.kemkes.go.id/#/vaccines
+India,IND,Covaxin,2021-05-23,Government of India,https://dashboard.cowin.gov.in/
+India,IND,Oxford/AstraZeneca,2021-05-23,Government of India,https://dashboard.cowin.gov.in/
+Indonesia,IDN,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://vaksin.kemkes.go.id/#/vaccines
+Indonesia,IDN,Sinovac,2021-05-23,Ministry of Health,https://vaksin.kemkes.go.id/#/vaccines
 Iran,IRN,Covaxin,2021-05-17,World Health Organization,https://covid19.who.int/
 Iran,IRN,Oxford/AstraZeneca,2021-05-17,World Health Organization,https://covid19.who.int/
 Iran,IRN,Sinopharm/Beijing,2021-05-17,World Health Organization,https://covid19.who.int/
 Iran,IRN,Sputnik V,2021-05-17,World Health Organization,https://covid19.who.int/
-Iraq,IRQ,Oxford/AstraZeneca,2021-05-11,Ministry of Health,https://www.nrttv.com/En/News.aspx?id=27954&MapID=2
-Iraq,IRQ,Sinopharm/Beijing,2021-05-11,Ministry of Health,https://www.nrttv.com/En/News.aspx?id=27954&MapID=2
+Iraq,IRQ,Oxford/AstraZeneca,2021-05-21,Ministry of Health,http://www.xinhuanet.com/english/2021-05/22/c_139961897.htm
+Iraq,IRQ,Pfizer/BioNTech,2021-05-21,Ministry of Health,http://www.xinhuanet.com/english/2021-05/22/c_139961897.htm
+Iraq,IRQ,Sinopharm/Beijing,2021-05-21,Ministry of Health,http://www.xinhuanet.com/english/2021-05/22/c_139961897.htm
 Ireland,IRL,Johnson&Johnson,2021-05-11,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
 Ireland,IRL,Moderna,2021-05-11,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
 Ireland,IRL,Oxford/AstraZeneca,2021-05-11,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
 Ireland,IRL,Pfizer/BioNTech,2021-05-11,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/
-Isle of Man,IMN,Oxford/AstraZeneca,2021-05-22,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
-Isle of Man,IMN,Pfizer/BioNTech,2021-05-22,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
-Israel,ISR,Moderna,2021-05-22,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general
-Israel,ISR,Pfizer/BioNTech,2021-05-22,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general
-Italy,ITA,Johnson&Johnson,2021-05-22,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
-Italy,ITA,Moderna,2021-05-22,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
-Italy,ITA,Oxford/AstraZeneca,2021-05-22,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
-Italy,ITA,Pfizer/BioNTech,2021-05-22,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
-Jamaica,JAM,Oxford/AstraZeneca,2021-05-14,Government of Jamaica,https://covid19.who.int/region/amro/country/jm
-Japan,JPN,Pfizer/BioNTech,2021-05-20,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html
+Isle of Man,IMN,Oxford/AstraZeneca,2021-05-23,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
+Isle of Man,IMN,Pfizer/BioNTech,2021-05-23,Isle of Man Government,https://covid19.gov.im/general-information/covid-19-vaccination-statistics/
+Israel,ISR,Moderna,2021-05-23,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general
+Israel,ISR,Pfizer/BioNTech,2021-05-23,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general
+Italy,ITA,Johnson&Johnson,2021-05-23,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+Italy,ITA,Moderna,2021-05-23,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+Italy,ITA,Oxford/AstraZeneca,2021-05-23,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+Italy,ITA,Pfizer/BioNTech,2021-05-23,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv
+Jamaica,JAM,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
+Japan,JPN,Pfizer/BioNTech,2021-05-23,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html
 Jersey,JEY,Oxford/AstraZeneca,2021-05-16,Government of Jersey,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true
 Jersey,JEY,Pfizer/BioNTech,2021-05-16,Government of Jersey,https://www.gov.je/Datasets/ListOpenData?ListName=COVID19Weekly&clean=true
 Jordan,JOR,Pfizer/BioNTech,2021-05-18,Government of Jordan,https://www.facebook.com/ncscmjordan/photos/a.388629101483029/1446122289067033/
 Jordan,JOR,Sinopharm/Beijing,2021-05-18,Government of Jordan,https://www.facebook.com/ncscmjordan/photos/a.388629101483029/1446122289067033/
-Kazakhstan,KAZ,QazVac,2021-05-22,Government of Kazakhstan,https://www.coronavirus2020.kz/
-Kazakhstan,KAZ,Sinopharm/HayatVax,2021-05-22,Government of Kazakhstan,https://www.coronavirus2020.kz/
-Kazakhstan,KAZ,Sputnik V,2021-05-22,Government of Kazakhstan,https://www.coronavirus2020.kz/
-Kenya,KEN,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://twitter.com/MOH_Kenya/status/1395795724277796868
-Kenya,KEN,Sputnik V,2021-05-21,Ministry of Health,https://twitter.com/MOH_Kenya/status/1395795724277796868
-Kosovo,OWID_KOS,Oxford/AstraZeneca,2021-05-17,Ministry of Health,https://www.facebook.com/Ministria.Shendetesise.RKS/posts/1993116074179303
+Kazakhstan,KAZ,QazVac,2021-05-23,Government of Kazakhstan,https://www.coronavirus2020.kz/
+Kazakhstan,KAZ,Sinopharm/HayatVax,2021-05-23,Government of Kazakhstan,https://www.coronavirus2020.kz/
+Kazakhstan,KAZ,Sputnik V,2021-05-23,Government of Kazakhstan,https://www.coronavirus2020.kz/
+Kenya,KEN,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://twitter.com/MOH_Kenya/status/1396497458847494146
+Kenya,KEN,Sputnik V,2021-05-23,Ministry of Health,https://twitter.com/MOH_Kenya/status/1396497458847494146
+Kosovo,OWID_KOS,Oxford/AstraZeneca,2021-05-20,Ministry of Health,https://www.facebook.com/Ministria.Shendetesise.RKS/posts/1995742160583361
 Kuwait,KWT,Pfizer/BioNTech,2021-05-16,Ministry of Health,https://www.aljarida.com/articles/1621187972024941600/
 Kyrgyzstan,KGZ,Sinopharm/Beijing,2021-05-18,Ministry of Health,"https://akipress.com/news:658330:Kyrgyzstan_vaccinates_over_54,100_against_COVID-19/"
 Kyrgyzstan,KGZ,Sputnik V,2021-05-18,Ministry of Health,"https://akipress.com/news:658330:Kyrgyzstan_vaccinates_over_54,100_against_COVID-19/"
-Laos,LAO,Sinopharm/Beijing,2021-05-13,Government of Laos,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4243636912327637/
-Laos,LAO,Sputnik V,2021-05-13,Government of Laos,https://www.facebook.com/CIEH.MoH.Lao/photos/a.1580136645344357/4243636912327637/
-Latvia,LVA,Johnson&Johnson,2021-05-22,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
-Latvia,LVA,Moderna,2021-05-22,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
-Latvia,LVA,Oxford/AstraZeneca,2021-05-22,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
-Latvia,LVA,Pfizer/BioNTech,2021-05-22,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
-Lebanon,LBN,Oxford/AstraZeneca,2021-05-22,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine
-Lebanon,LBN,Pfizer/BioNTech,2021-05-22,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine
-Lebanon,LBN,Sinopharm/Beijing,2021-05-22,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine
-Lebanon,LBN,Sputnik V,2021-05-22,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine
+Laos,LAO,Sinopharm/Beijing,2021-05-23,Government of Laos,https://www.facebook.com/CIEH.MoH.Lao/posts/4272237492800912
+Laos,LAO,Sputnik V,2021-05-23,Government of Laos,https://www.facebook.com/CIEH.MoH.Lao/posts/4272237492800912
+Latvia,LVA,Johnson&Johnson,2021-05-23,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+Latvia,LVA,Moderna,2021-05-23,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+Latvia,LVA,Oxford/AstraZeneca,2021-05-23,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+Latvia,LVA,Pfizer/BioNTech,2021-05-23,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas
+Lebanon,LBN,Oxford/AstraZeneca,2021-05-23,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine
+Lebanon,LBN,Pfizer/BioNTech,2021-05-23,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine
+Lebanon,LBN,Sinopharm/Beijing,2021-05-23,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine
+Lebanon,LBN,Sputnik V,2021-05-23,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine
 Lesotho,LSO,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
 Liberia,LBR,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
 Libya,LBY,Johnson&Johnson,2021-05-10,World Health Organization,https://covid19.who.int/
@@ -251,84 +252,84 @@ Libya,LBY,Pfizer/BioNTech,2021-05-10,World Health Organization,https://covid19.w
 Libya,LBY,Sputnik V,2021-05-10,World Health Organization,https://covid19.who.int/
 Liechtenstein,LIE,Moderna,2021-05-19,Federal Office of Public Health,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=FL
 Liechtenstein,LIE,Pfizer/BioNTech,2021-05-19,Federal Office of Public Health,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=FL
-Lithuania,LTU,Johnson&Johnson,2021-05-22,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
-Lithuania,LTU,Moderna,2021-05-22,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
-Lithuania,LTU,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
-Lithuania,LTU,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
+Lithuania,LTU,Johnson&Johnson,2021-05-23,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
+Lithuania,LTU,Moderna,2021-05-23,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
+Lithuania,LTU,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
+Lithuania,LTU,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/
 Luxembourg,LUX,Moderna,2021-05-20,Government of Luxembourg,https://data.public.lu/fr/datasets/r/c178c5c0-a9bf-4118-82be-dd76e9b1da0c
 Luxembourg,LUX,Oxford/AstraZeneca,2021-05-20,Government of Luxembourg,https://data.public.lu/fr/datasets/r/c178c5c0-a9bf-4118-82be-dd76e9b1da0c
 Luxembourg,LUX,Pfizer/BioNTech,2021-05-20,Government of Luxembourg,https://data.public.lu/fr/datasets/r/c178c5c0-a9bf-4118-82be-dd76e9b1da0c
-Macao,MAC,Pfizer/BioNTech,2021-05-22,Government of Macao,https://www.gov.mo/zh-hant/news/410848/
-Macao,MAC,Sinopharm/Beijing,2021-05-22,Government of Macao,https://www.gov.mo/zh-hant/news/410848/
+Macao,MAC,Pfizer/BioNTech,2021-05-23,Government of Macao,https://www.gov.mo/zh-hant/news/413752/
+Macao,MAC,Sinopharm/Beijing,2021-05-23,Government of Macao,https://www.gov.mo/zh-hant/news/413752/
 Madagascar,MDG,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
-Malawi,MWI,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://twitter.com/health_malawi/status/1395788999407673346
-Malaysia,MYS,Oxford/AstraZeneca,2021-05-22,Government of Malaysia,https://www.vaksincovid.gov.my/statistik/
-Malaysia,MYS,Pfizer/BioNTech,2021-05-22,Government of Malaysia,https://www.vaksincovid.gov.my/statistik/
-Malaysia,MYS,Sinovac,2021-05-22,Government of Malaysia,https://www.vaksincovid.gov.my/statistik/
-Maldives,MDV,Oxford/AstraZeneca,2021-05-19,Presidency of the Maldives,https://twitter.com/HPA_MV/status/1395430105183244288
-Maldives,MDV,Pfizer/BioNTech,2021-05-19,Presidency of the Maldives,https://twitter.com/HPA_MV/status/1395430105183244288
-Maldives,MDV,Sinopharm/Beijing,2021-05-19,Presidency of the Maldives,https://twitter.com/HPA_MV/status/1395430105183244288
-Mali,MLI,Oxford/AstraZeneca,2021-05-14,Ministry of Health,https://www.facebook.com/msdsmali1/posts/2977833035779528
-Malta,MLT,Johnson&Johnson,2021-05-21,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
-Malta,MLT,Moderna,2021-05-21,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
-Malta,MLT,Oxford/AstraZeneca,2021-05-21,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
-Malta,MLT,Pfizer/BioNTech,2021-05-21,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
-Mauritania,MRT,Sinopharm/Beijing,2021-05-21,Ministry of Health,https://covid19.who.int/region/afro/country/mr
+Malawi,MWI,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://twitter.com/health_malawi/status/1396492019330162690
+Malaysia,MYS,Oxford/AstraZeneca,2021-05-23,Government of Malaysia,https://www.vaksincovid.gov.my/statistik/
+Malaysia,MYS,Pfizer/BioNTech,2021-05-23,Government of Malaysia,https://www.vaksincovid.gov.my/statistik/
+Malaysia,MYS,Sinovac,2021-05-23,Government of Malaysia,https://www.vaksincovid.gov.my/statistik/
+Maldives,MDV,Oxford/AstraZeneca,2021-05-22,Presidency of the Maldives,https://twitter.com/HPA_MV/status/1396512166765686787
+Maldives,MDV,Pfizer/BioNTech,2021-05-22,Presidency of the Maldives,https://twitter.com/HPA_MV/status/1396512166765686787
+Maldives,MDV,Sinopharm/Beijing,2021-05-22,Presidency of the Maldives,https://twitter.com/HPA_MV/status/1396512166765686787
+Mali,MLI,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://covid19.who.int/region/afro/country/ml
+Malta,MLT,Johnson&Johnson,2021-05-23,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
+Malta,MLT,Moderna,2021-05-23,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
+Malta,MLT,Oxford/AstraZeneca,2021-05-23,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
+Malta,MLT,Pfizer/BioNTech,2021-05-23,COVID-19 Malta Public Health Response Team,https://github.com/COVID19-Malta/COVID19-Cases
+Mauritania,MRT,Sinopharm/Beijing,2021-05-23,Ministry of Health,https://www.sante.gov.mr/wp-content/uploads/2021/05/Mauritania-COVID-19-Situation-Report-2021-05-23FR.pdf
 Mauritius,MUS,Covaxin,2021-05-12,World Health Organization,https://covid19.who.int/
 Mauritius,MUS,Oxford/AstraZeneca,2021-05-12,World Health Organization,https://covid19.who.int/
 Mauritius,MUS,Sinopharm/Beijing,2021-05-12,World Health Organization,https://covid19.who.int/
-Mexico,MEX,CanSino,2021-05-21,Secretary of Health,https://www.gob.mx/cms/uploads/attachment/file/639344/CP_Salud_CTD_coronavirus_COVID-19__22may21.pdf
-Mexico,MEX,Oxford/AstraZeneca,2021-05-21,Secretary of Health,https://www.gob.mx/cms/uploads/attachment/file/639344/CP_Salud_CTD_coronavirus_COVID-19__22may21.pdf
-Mexico,MEX,Pfizer/BioNTech,2021-05-21,Secretary of Health,https://www.gob.mx/cms/uploads/attachment/file/639344/CP_Salud_CTD_coronavirus_COVID-19__22may21.pdf
-Mexico,MEX,Sinovac,2021-05-21,Secretary of Health,https://www.gob.mx/cms/uploads/attachment/file/639344/CP_Salud_CTD_coronavirus_COVID-19__22may21.pdf
-Mexico,MEX,Sputnik V,2021-05-21,Secretary of Health,https://www.gob.mx/cms/uploads/attachment/file/639344/CP_Salud_CTD_coronavirus_COVID-19__22may21.pdf
-Moldova,MDA,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://vaccinare.gov.md/
-Moldova,MDA,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://vaccinare.gov.md/
-Moldova,MDA,Sinopharm/Beijing,2021-05-22,Ministry of Health,https://vaccinare.gov.md/
-Moldova,MDA,Sputnik V,2021-05-22,Ministry of Health,https://vaccinare.gov.md/
+Mexico,MEX,CanSino,2021-05-23,Secretary of Health,https://www.gob.mx/salud/prensa/version-estenografica-conferencia-de-prensa-informe-diario-sobre-coronavirus-covid-19-en-mexico-272825
+Mexico,MEX,Oxford/AstraZeneca,2021-05-23,Secretary of Health,https://www.gob.mx/salud/prensa/version-estenografica-conferencia-de-prensa-informe-diario-sobre-coronavirus-covid-19-en-mexico-272825
+Mexico,MEX,Pfizer/BioNTech,2021-05-23,Secretary of Health,https://www.gob.mx/salud/prensa/version-estenografica-conferencia-de-prensa-informe-diario-sobre-coronavirus-covid-19-en-mexico-272825
+Mexico,MEX,Sinovac,2021-05-23,Secretary of Health,https://www.gob.mx/salud/prensa/version-estenografica-conferencia-de-prensa-informe-diario-sobre-coronavirus-covid-19-en-mexico-272825
+Mexico,MEX,Sputnik V,2021-05-23,Secretary of Health,https://www.gob.mx/salud/prensa/version-estenografica-conferencia-de-prensa-informe-diario-sobre-coronavirus-covid-19-en-mexico-272825
+Moldova,MDA,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://vaccinare.gov.md/
+Moldova,MDA,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://vaccinare.gov.md/
+Moldova,MDA,Sinopharm/Beijing,2021-05-23,Ministry of Health,https://vaccinare.gov.md/
+Moldova,MDA,Sputnik V,2021-05-23,Ministry of Health,https://vaccinare.gov.md/
 Monaco,MCO,Pfizer/BioNTech,2021-05-18,National Council,https://www.gouv.mc/Action-Gouvernementale/Coronavirus-Covid-19/Actualites/Covid-19-Aucun-nouveau-cas-positif-et-3-guerisons-ce-mercredi-19-mai
-Mongolia,MNG,Oxford/AstraZeneca,2021-05-22,Ministry of Health via ikon.mn,https://ikon.mn/
-Mongolia,MNG,Pfizer/BioNTech,2021-05-22,Ministry of Health via ikon.mn,https://ikon.mn/
-Mongolia,MNG,Sinopharm/Beijing,2021-05-22,Ministry of Health via ikon.mn,https://ikon.mn/
-Mongolia,MNG,Sputnik V,2021-05-22,Ministry of Health via ikon.mn,https://ikon.mn/
-Montenegro,MNE,Oxford/AstraZeneca,2021-05-21,Government of Montenegro,https://www.covidodgovor.me/
-Montenegro,MNE,Pfizer/BioNTech,2021-05-21,Government of Montenegro,https://www.covidodgovor.me/
-Montenegro,MNE,Sinopharm/Beijing,2021-05-21,Government of Montenegro,https://www.covidodgovor.me/
-Montenegro,MNE,Sputnik V,2021-05-21,Government of Montenegro,https://www.covidodgovor.me/
+Mongolia,MNG,Oxford/AstraZeneca,2021-05-23,Ministry of Health via ikon.mn,https://ikon.mn/
+Mongolia,MNG,Pfizer/BioNTech,2021-05-23,Ministry of Health via ikon.mn,https://ikon.mn/
+Mongolia,MNG,Sinopharm/Beijing,2021-05-23,Ministry of Health via ikon.mn,https://ikon.mn/
+Mongolia,MNG,Sputnik V,2021-05-23,Ministry of Health via ikon.mn,https://ikon.mn/
+Montenegro,MNE,Oxford/AstraZeneca,2021-05-23,Government of Montenegro,https://www.covidodgovor.me/
+Montenegro,MNE,Pfizer/BioNTech,2021-05-23,Government of Montenegro,https://www.covidodgovor.me/
+Montenegro,MNE,Sinopharm/Beijing,2021-05-23,Government of Montenegro,https://www.covidodgovor.me/
+Montenegro,MNE,Sputnik V,2021-05-23,Government of Montenegro,https://www.covidodgovor.me/
 Montserrat,MSR,Oxford/AstraZeneca,2021-04-21,Government of Montserrat,https://www.facebook.com/GIUMontserrat/posts/882138232345520
 Morocco,MAR,Oxford/AstraZeneca,2021-05-22,Ministry of Health,http://www.covidmaroc.ma/pages/Accueilfr.aspx
 Morocco,MAR,Sinopharm/Beijing,2021-05-22,Ministry of Health,http://www.covidmaroc.ma/pages/Accueilfr.aspx
 Mozambique,MOZ,Oxford/AstraZeneca,2021-05-18,World Health Organization,https://covid19.who.int/
 Mozambique,MOZ,Sinopharm/Beijing,2021-05-18,World Health Organization,https://covid19.who.int/
 Myanmar,MMR,Oxford/AstraZeneca,2021-05-13,World Health Organization,https://covid19.who.int/
-Namibia,NAM,Oxford/AstraZeneca,2021-05-22,Ministry of Health and Social Services,https://www.facebook.com/MoHSSNamibia/photos/a.500006330672375/750475895625416/
-Namibia,NAM,Sinopharm/Beijing,2021-05-22,Ministry of Health and Social Services,https://www.facebook.com/MoHSSNamibia/photos/a.500006330672375/750475895625416/
+Namibia,NAM,Oxford/AstraZeneca,2021-05-23,Ministry of Health and Social Services,https://www.facebook.com/MoHSSNamibia/posts/751022265570779
+Namibia,NAM,Sinopharm/Beijing,2021-05-23,Ministry of Health and Social Services,https://www.facebook.com/MoHSSNamibia/posts/751022265570779
 Nauru,NRU,Oxford/AstraZeneca,2021-05-18,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
-Nepal,NPL,Oxford/AstraZeneca,2021-05-21,Government of Nepal,https://covid19.mohp.gov.np/covid/englishSituationReport/60a8e7f6dcf3c_SitRep468_COVID-19_22-05-2021_EN.pdf
-Nepal,NPL,Sinopharm/Beijing,2021-05-21,Government of Nepal,https://covid19.mohp.gov.np/covid/englishSituationReport/60a8e7f6dcf3c_SitRep468_COVID-19_22-05-2021_EN.pdf
-Netherlands,NLD,Johnson&Johnson,2021-05-22,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
-Netherlands,NLD,Moderna,2021-05-22,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
-Netherlands,NLD,Oxford/AstraZeneca,2021-05-22,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
-Netherlands,NLD,Pfizer/BioNTech,2021-05-22,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Nepal,NPL,Oxford/AstraZeneca,2021-05-23,Government of Nepal,https://covid19.mohp.gov.np/covid/englishSituationReport/60ab8c9e2ca33_SitRep470_COVID-19_24-05-2021_EN.pdf
+Nepal,NPL,Sinopharm/Beijing,2021-05-23,Government of Nepal,https://covid19.mohp.gov.np/covid/englishSituationReport/60ab8c9e2ca33_SitRep470_COVID-19_24-05-2021_EN.pdf
+Netherlands,NLD,Johnson&Johnson,2021-05-23,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Netherlands,NLD,Moderna,2021-05-23,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Netherlands,NLD,Oxford/AstraZeneca,2021-05-23,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+Netherlands,NLD,Pfizer/BioNTech,2021-05-23,RIVM via European CDC,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
 New Caledonia,NCL,Oxford/AstraZeneca,2021-05-18,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
 New Zealand,NZL,Pfizer/BioNTech,2021-05-18,Ministry of Health,https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data
-Nicaragua,NIC,Oxford/AstraZeneca,2021-05-07,World Health Organization,https://covid19.who.int/
-Nicaragua,NIC,Sputnik V,2021-05-07,World Health Organization,https://covid19.who.int/
+Nicaragua,NIC,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
+Nicaragua,NIC,Sputnik V,2021-05-21,World Health Organization,https://covid19.who.int/
 Niger,NER,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
 Niger,NER,Sinopharm/Beijing,2021-05-21,World Health Organization,https://covid19.who.int/
-Nigeria,NGA,Oxford/AstraZeneca,2021-05-20,Government of Nigeria,https://twitter.com/NphcdaNG/status/1395461111202394117
-North Macedonia,MKD,Oxford/AstraZeneca,2021-05-21,Government of North Macedonia,https://www.facebook.com/filipce.venko/posts/2692111801095836
-North Macedonia,MKD,Pfizer/BioNTech,2021-05-21,Government of North Macedonia,https://www.facebook.com/filipce.venko/posts/2692111801095836
-North Macedonia,MKD,Sinopharm/Beijing,2021-05-21,Government of North Macedonia,https://www.facebook.com/filipce.venko/posts/2692111801095836
-North Macedonia,MKD,Sputnik V,2021-05-21,Government of North Macedonia,https://www.facebook.com/filipce.venko/posts/2692111801095836
+Nigeria,NGA,Oxford/AstraZeneca,2021-05-23,Government of Nigeria,https://twitter.com/NphcdaNG/status/1396555010947887112
+North Macedonia,MKD,Oxford/AstraZeneca,2021-05-23,Government of North Macedonia,https://www.facebook.com/filipce.venko/posts/2693501330956883
+North Macedonia,MKD,Pfizer/BioNTech,2021-05-23,Government of North Macedonia,https://www.facebook.com/filipce.venko/posts/2693501330956883
+North Macedonia,MKD,Sinopharm/Beijing,2021-05-23,Government of North Macedonia,https://www.facebook.com/filipce.venko/posts/2693501330956883
+North Macedonia,MKD,Sputnik V,2021-05-23,Government of North Macedonia,https://www.facebook.com/filipce.venko/posts/2693501330956883
 Northern Cyprus,OWID_CYN,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://asibilgisistemi.com/
 Northern Cyprus,OWID_CYN,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://asibilgisistemi.com/
 Northern Cyprus,OWID_CYN,Sinovac,2021-05-22,Ministry of Health,https://asibilgisistemi.com/
-Northern Ireland,OWID_NIR,Moderna,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-Northern Ireland,OWID_NIR,Oxford/AstraZeneca,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-Northern Ireland,OWID_NIR,Pfizer/BioNTech,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-Norway,NOR,Moderna,2021-05-20,Norwegian Institute of Public Health,https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/
-Norway,NOR,Pfizer/BioNTech,2021-05-20,Norwegian Institute of Public Health,https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/
+Northern Ireland,OWID_NIR,Moderna,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Northern Ireland,OWID_NIR,Oxford/AstraZeneca,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Northern Ireland,OWID_NIR,Pfizer/BioNTech,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Norway,NOR,Moderna,2021-05-23,Norwegian Institute of Public Health,https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/
+Norway,NOR,Pfizer/BioNTech,2021-05-23,Norwegian Institute of Public Health,https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/
 Oman,OMN,Oxford/AstraZeneca,2021-05-05,Ministry of Health,https://twitter.com/OmaniMOH/status/1389887384330948608
 Oman,OMN,Pfizer/BioNTech,2021-05-05,Ministry of Health,https://twitter.com/OmaniMOH/status/1389887384330948608
 Pakistan,PAK,CanSino,2021-05-21,National Command and Operation Centre,https://ncoc.gov.pk/covid-vaccination-en.php
@@ -339,136 +340,137 @@ Pakistan,PAK,Sputnik V,2021-05-21,National Command and Operation Centre,https://
 Palestine,PSE,Moderna,2021-05-20,Ministry of Health,https://www.facebook.com/mohps/posts/3822951787830671
 Palestine,PSE,Oxford/AstraZeneca,2021-05-20,Ministry of Health,https://www.facebook.com/mohps/posts/3822951787830671
 Palestine,PSE,Pfizer/BioNTech,2021-05-20,Ministry of Health,https://www.facebook.com/mohps/posts/3822951787830671
-Panama,PAN,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://twitter.com/MINSAPma/status/1395551618993639425
-Panama,PAN,Pfizer/BioNTech,2021-05-21,Ministry of Health,https://twitter.com/MINSAPma/status/1395551618993639425
+Panama,PAN,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://twitter.com/MINSAPma/status/1396245577692819456
+Panama,PAN,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://twitter.com/MINSAPma/status/1396245577692819456
 Papua New Guinea,PNG,Oxford/AstraZeneca,2021-05-14,World Health Organization,https://covid19.who.int/
 Papua New Guinea,PNG,Sinopharm/Beijing,2021-05-14,World Health Organization,https://covid19.who.int/
-Paraguay,PRY,Sputnik V,2021-05-17,Government of Paraguay,https://www.vacunate.gov.py/index-listado-vacunados.html
-Peru,PER,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
-Peru,PER,Pfizer/BioNTech,2021-05-21,Ministry of Health,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
-Peru,PER,Sinopharm/Beijing,2021-05-21,Ministry of Health,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
+Paraguay,PRY,Sputnik V,2021-05-22,Government of Paraguay,https://www.vacunate.gov.py/index-listado-vacunados.html
+Peru,PER,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
+Peru,PER,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
+Peru,PER,Sinopharm/Beijing,2021-05-22,Ministry of Health,https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
 Philippines,PHL,Oxford/AstraZeneca,2021-05-22,Government of the Philippines,https://www.facebook.com/102042448125024/posts/318491146480152/
 Philippines,PHL,Pfizer/BioNTech,2021-05-22,Government of the Philippines,https://www.facebook.com/102042448125024/posts/318491146480152/
 Philippines,PHL,Sinovac,2021-05-22,Government of the Philippines,https://www.facebook.com/102042448125024/posts/318491146480152/
 Philippines,PHL,Sputnik V,2021-05-22,Government of the Philippines,https://www.facebook.com/102042448125024/posts/318491146480152/
-Poland,POL,Johnson&Johnson,2021-05-22,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
-Poland,POL,Moderna,2021-05-22,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
-Poland,POL,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
-Poland,POL,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
-Portugal,PRT,Moderna,2021-05-22,Directorate General for Health via Data Science for Social Good,https://github.com/dssg-pt/covid19pt-data
-Portugal,PRT,Oxford/AstraZeneca,2021-05-22,Directorate General for Health via Data Science for Social Good,https://github.com/dssg-pt/covid19pt-data
-Portugal,PRT,Pfizer/BioNTech,2021-05-22,Directorate General for Health via Data Science for Social Good,https://github.com/dssg-pt/covid19pt-data
-Qatar,QAT,Moderna,2021-05-21,Ministry of Public Health,https://covid19.moph.gov.qa/EN/Pages/Vaccination-Program-Data.aspx
-Qatar,QAT,Pfizer/BioNTech,2021-05-21,Ministry of Public Health,https://covid19.moph.gov.qa/EN/Pages/Vaccination-Program-Data.aspx
-Romania,ROU,Johnson&Johnson,2021-05-22,Government of Romania,https://datelazi.ro/
-Romania,ROU,Moderna,2021-05-22,Government of Romania,https://datelazi.ro/
-Romania,ROU,Oxford/AstraZeneca,2021-05-22,Government of Romania,https://datelazi.ro/
-Romania,ROU,Pfizer/BioNTech,2021-05-22,Government of Romania,https://datelazi.ro/
-Russia,RUS,EpiVacCorona,2021-05-22,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats
-Russia,RUS,Sputnik V,2021-05-22,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats
-Rwanda,RWA,Moderna,2021-05-08,Ministry of Health,https://covid19.who.int/region/afro/country/rw
-Rwanda,RWA,Oxford/AstraZeneca,2021-05-08,Ministry of Health,https://covid19.who.int/region/afro/country/rw
-Rwanda,RWA,Pfizer/BioNTech,2021-05-08,Ministry of Health,https://covid19.who.int/region/afro/country/rw
+Poland,POL,Johnson&Johnson,2021-05-23,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+Poland,POL,Moderna,2021-05-23,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+Poland,POL,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+Poland,POL,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19
+Portugal,PRT,Moderna,2021-05-23,Directorate General for Health via Data Science for Social Good,https://github.com/dssg-pt/covid19pt-data
+Portugal,PRT,Oxford/AstraZeneca,2021-05-23,Directorate General for Health via Data Science for Social Good,https://github.com/dssg-pt/covid19pt-data
+Portugal,PRT,Pfizer/BioNTech,2021-05-23,Directorate General for Health via Data Science for Social Good,https://github.com/dssg-pt/covid19pt-data
+Qatar,QAT,Moderna,2021-05-23,Ministry of Public Health,https://covid19.moph.gov.qa/EN/Pages/Vaccination-Program-Data.aspx
+Qatar,QAT,Pfizer/BioNTech,2021-05-23,Ministry of Public Health,https://covid19.moph.gov.qa/EN/Pages/Vaccination-Program-Data.aspx
+Romania,ROU,Johnson&Johnson,2021-05-23,Government of Romania,https://datelazi.ro/
+Romania,ROU,Moderna,2021-05-23,Government of Romania,https://datelazi.ro/
+Romania,ROU,Oxford/AstraZeneca,2021-05-23,Government of Romania,https://datelazi.ro/
+Romania,ROU,Pfizer/BioNTech,2021-05-23,Government of Romania,https://datelazi.ro/
+Russia,RUS,EpiVacCorona,2021-05-23,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats
+Russia,RUS,Sputnik V,2021-05-23,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats
+Rwanda,RWA,Moderna,2021-05-08,World Health Organization,https://covid19.who.int/region/afro/country/rw
+Rwanda,RWA,Oxford/AstraZeneca,2021-05-08,World Health Organization,https://covid19.who.int/region/afro/country/rw
+Rwanda,RWA,Pfizer/BioNTech,2021-05-08,World Health Organization,https://covid19.who.int/region/afro/country/rw
 Saint Helena,SHN,Oxford/AstraZeneca,2021-05-05,Government of Saint Helena,https://www.sainthelena.gov.sh/2021/news/preliminary-data-from-the-covid-19-vaccination-programme/
-Saint Kitts and Nevis,KNA,Oxford/AstraZeneca,2021-05-18,Government of Saint Kitts and Nevis,https://www.facebook.com/StKittsHPU/photos/a.158729094910938/918012832315890/
+Saint Kitts and Nevis,KNA,Oxford/AstraZeneca,2021-05-22,Government of Saint Kitts and Nevis,https://www.facebook.com/StKittsHPU/posts/919931132124060
 Saint Lucia,LCA,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://www.covid19response.lc/
-Saint Vincent and the Grenadines,VCT,Oxford/AstraZeneca,2021-05-18,Ministry of Health,https://www.facebook.com/SVGHEALTH/photos/a.460089407384821/4497943153599406/
+Saint Vincent and the Grenadines,VCT,Oxford/AstraZeneca,2021-05-19,Ministry of Health,https://www.facebook.com/SVGHEALTH/posts/4508917015835353
 Samoa,WSM,Oxford/AstraZeneca,2021-05-18,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
-San Marino,SMR,Pfizer/BioNTech,2021-05-21,Social Security Institute,https://vaccinocovid.iss.sm/
-San Marino,SMR,Sputnik V,2021-05-21,Social Security Institute,https://vaccinocovid.iss.sm/
+San Marino,SMR,Pfizer/BioNTech,2021-05-23,Social Security Institute,https://vaccinocovid.iss.sm/
+San Marino,SMR,Sputnik V,2021-05-23,Social Security Institute,https://vaccinocovid.iss.sm/
 Sao Tome and Principe,STP,Oxford/AstraZeneca,2021-05-18,World Health Organization,https://covid19.who.int/
-Saudi Arabia,SAU,Oxford/AstraZeneca,2021-05-22,Saudi Health Council,https://covid19.moh.gov.sa/
-Saudi Arabia,SAU,Pfizer/BioNTech,2021-05-22,Saudi Health Council,https://covid19.moh.gov.sa/
-Scotland,OWID_SCT,Moderna,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-Scotland,OWID_SCT,Oxford/AstraZeneca,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-Scotland,OWID_SCT,Pfizer/BioNTech,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-Senegal,SEN,Sinopharm/Beijing,2021-05-21,Ministry of Health,https://twitter.com/MinisteredelaS1/status/1395686486532571136
-Serbia,SRB,Oxford/AstraZeneca,2021-05-21,Government of Serbia,https://vakcinacija.gov.rs/
-Serbia,SRB,Pfizer/BioNTech,2021-05-21,Government of Serbia,https://vakcinacija.gov.rs/
-Serbia,SRB,Sinopharm/Beijing,2021-05-21,Government of Serbia,https://vakcinacija.gov.rs/
-Serbia,SRB,Sputnik V,2021-05-21,Government of Serbia,https://vakcinacija.gov.rs/
+Saudi Arabia,SAU,Oxford/AstraZeneca,2021-05-23,Saudi Health Council,https://covid19.moh.gov.sa/
+Saudi Arabia,SAU,Pfizer/BioNTech,2021-05-23,Saudi Health Council,https://covid19.moh.gov.sa/
+Scotland,OWID_SCT,Moderna,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Scotland,OWID_SCT,Oxford/AstraZeneca,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Scotland,OWID_SCT,Pfizer/BioNTech,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Senegal,SEN,Sinopharm/Beijing,2021-05-21,World Health Organization,https://covid19.who.int/
+Serbia,SRB,Oxford/AstraZeneca,2021-05-23,Government of Serbia,https://vakcinacija.gov.rs/
+Serbia,SRB,Pfizer/BioNTech,2021-05-23,Government of Serbia,https://vakcinacija.gov.rs/
+Serbia,SRB,Sinopharm/Beijing,2021-05-23,Government of Serbia,https://vakcinacija.gov.rs/
+Serbia,SRB,Sputnik V,2021-05-23,Government of Serbia,https://vakcinacija.gov.rs/
 Seychelles,SYC,Oxford/AstraZeneca,2021-05-18,Extended Programme for Immunisation,https://www.youtube.com/watch?v=J_e--lCHuWM&ab_channel=SBC
 Seychelles,SYC,Sinopharm/Beijing,2021-05-18,Extended Programme for Immunisation,https://www.youtube.com/watch?v=J_e--lCHuWM&ab_channel=SBC
 Sierra Leone,SLE,Oxford/AstraZeneca,2021-05-08,Ministry of Health and Sanitation,https://www.facebook.com/mohsict/photos/pcb.1387167548311054/1387167118311097/
 Singapore,SGP,Moderna,2021-05-17,Ministry of Health,https://www.moh.gov.sg/covid-19
 Singapore,SGP,Pfizer/BioNTech,2021-05-17,Ministry of Health,https://www.moh.gov.sg/covid-19
-Sint Maarten (Dutch part),SXM,Moderna,2021-05-14,World Health Organization,https://covid19.who.int/
-Sint Maarten (Dutch part),SXM,Oxford/AstraZeneca,2021-05-14,World Health Organization,https://covid19.who.int/
-Sint Maarten (Dutch part),SXM,Pfizer/BioNTech,2021-05-14,World Health Organization,https://covid19.who.int/
-Slovakia,SVK,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://covid-19.nczisk.sk
-Slovenia,SVN,Oxford/AstraZeneca,2021-05-22,National Institute of Public Health via Sledilnik,https://covid-19.sledilnik.org/en/stats
-Slovenia,SVN,Pfizer/BioNTech,2021-05-22,National Institute of Public Health via Sledilnik,https://covid-19.sledilnik.org/en/stats
+Sint Maarten (Dutch part),SXM,Moderna,2021-05-21,World Health Organization,https://covid19.who.int/
+Sint Maarten (Dutch part),SXM,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
+Sint Maarten (Dutch part),SXM,Pfizer/BioNTech,2021-05-21,World Health Organization,https://covid19.who.int/
+Slovakia,SVK,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://github.com/Institut-Zdravotnych-Analyz/covid19-data
+Slovenia,SVN,Oxford/AstraZeneca,2021-05-23,National Institute of Public Health via Sledilnik,https://covid-19.sledilnik.org/en/stats
+Slovenia,SVN,Pfizer/BioNTech,2021-05-23,National Institute of Public Health via Sledilnik,https://covid-19.sledilnik.org/en/stats
 Solomon Islands,SLB,Oxford/AstraZeneca,2021-05-18,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
 Somalia,SOM,Oxford/AstraZeneca,2021-05-16,World Health Organization,https://covid19.who.int/
 Somalia,SOM,Sinopharm/Beijing,2021-05-16,World Health Organization,https://covid19.who.int/
 Somalia,SOM,Sinovac,2021-05-16,World Health Organization,https://covid19.who.int/
-South Africa,ZAF,Johnson&Johnson,2021-05-22,Ministry of Health,https://sacoronavirus.co.za/
-South Korea,KOR,Oxford/AstraZeneca,2021-05-22,Korea Centers for Disease Control and Prevention,http://ncv.kdca.go.kr/
-South Korea,KOR,Pfizer/BioNTech,2021-05-22,Korea Centers for Disease Control and Prevention,http://ncv.kdca.go.kr/
+South Africa,ZAF,Johnson&Johnson,2021-05-23,Ministry of Health,https://sacoronavirus.co.za/
+South Africa,ZAF,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://sacoronavirus.co.za/
+South Korea,KOR,Oxford/AstraZeneca,2021-05-23,Korea Centers for Disease Control and Prevention,http://ncv.kdca.go.kr/
+South Korea,KOR,Pfizer/BioNTech,2021-05-23,Korea Centers for Disease Control and Prevention,http://ncv.kdca.go.kr/
 South Sudan,SSD,Oxford/AstraZeneca,2021-05-21,World Health Organization,https://covid19.who.int/
 Spain,ESP,Johnson&Johnson,2021-05-20,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210521.ods
 Spain,ESP,Moderna,2021-05-20,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210521.ods
 Spain,ESP,Oxford/AstraZeneca,2021-05-20,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210521.ods
 Spain,ESP,Pfizer/BioNTech,2021-05-20,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20210521.ods
-Sri Lanka,LKA,Oxford/AstraZeneca,2021-05-22,Ministry of Health's Epidemiology Unit,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-05_10_21.pdf
-Sri Lanka,LKA,Sinopharm/Beijing,2021-05-22,Ministry of Health's Epidemiology Unit,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-05_10_21.pdf
-Sri Lanka,LKA,Sputnik V,2021-05-22,Ministry of Health's Epidemiology Unit,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-22-05_10_21.pdf
+Sri Lanka,LKA,Oxford/AstraZeneca,2021-05-23,Ministry of Health's Epidemiology Unit,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-05_10_21.pdf
+Sri Lanka,LKA,Sinopharm/Beijing,2021-05-23,Ministry of Health's Epidemiology Unit,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-05_10_21.pdf
+Sri Lanka,LKA,Sputnik V,2021-05-23,Ministry of Health's Epidemiology Unit,https://www.epid.gov.lk/web/images/pdf/corona_virus_report/sitrep-sl-en-23-05_10_21.pdf
 Sudan,SDN,Oxford/AstraZeneca,2021-05-09,World Health Organization,https://covid19.who.int/
 Sudan,SDN,Pfizer/BioNTech,2021-05-09,World Health Organization,https://covid19.who.int/
 Sudan,SDN,Sinopharm/Beijing,2021-05-09,World Health Organization,https://covid19.who.int/
 Sudan,SDN,Sinovac,2021-05-09,World Health Organization,https://covid19.who.int/
-Suriname,SUR,Oxford/AstraZeneca,2021-05-21,Government of Suriname,https://laatjevaccineren.sr/
+Suriname,SUR,Oxford/AstraZeneca,2021-05-23,Government of Suriname,https://laatjevaccineren.sr/
 Sweden,SWE,Oxford/AstraZeneca,2021-05-21,Public Health Agency of Sweden,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/vaccination-mot-covid-19/statistik/statistik-over-registrerade-vaccinationer-covid-19/
 Sweden,SWE,Pfizer/BioNTech,2021-05-21,Public Health Agency of Sweden,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/vaccination-mot-covid-19/statistik/statistik-over-registrerade-vaccinationer-covid-19/
 Switzerland,CHE,Moderna,2021-05-19,Federal Office of Public Health,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH
 Switzerland,CHE,Pfizer/BioNTech,2021-05-19,Federal Office of Public Health,https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=CH
 Syria,SYR,Sputnik V,2021-04-08,Ministry of Health,http://www.xinhuanet.com/english/africa/2021-04/08/c_139867196.htm
-Taiwan,TWN,Oxford/AstraZeneca,2021-05-21,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og
+Taiwan,TWN,Oxford/AstraZeneca,2021-05-23,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og
 Tajikistan,TJK,Oxford/AstraZeneca,2021-05-16,World Health Organization,https://covid19.who.int/
-Thailand,THA,Oxford/AstraZeneca,2021-05-22,Government of Thailand,https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-23.pdf
-Thailand,THA,Sinovac,2021-05-22,Government of Thailand,https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-23.pdf
+Thailand,THA,Oxford/AstraZeneca,2021-05-23,Government of Thailand,https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-24.pdf
+Thailand,THA,Sinovac,2021-05-23,Government of Thailand,https://ddc.moph.go.th/uploads/ckeditor2//files/Daily%20report%202021-05-24.pdf
 Timor,TLS,Oxford/AstraZeneca,2021-05-17,World Health Organization,https://covid19.who.int/
 Togo,TGO,Oxford/AstraZeneca,2021-05-17,Government of Togo,https://www.republicoftogo.com/Toutes-les-rubriques/Sante/Tous-ensemble
 Tonga,TON,Oxford/AstraZeneca,2021-05-18,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
-Trinidad and Tobago,TTO,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://experience.arcgis.com/experience/59226cacd2b441c7a939dca13f832112/
-Tunisia,TUN,Pfizer/BioNTech,2021-05-19,Ministry of Health,https://www.facebook.com/santetunisie.rns.tn/posts/4148182395220833
-Tunisia,TUN,Sinovac,2021-05-19,Ministry of Health,https://www.facebook.com/santetunisie.rns.tn/posts/4148182395220833
-Tunisia,TUN,Sputnik V,2021-05-19,Ministry of Health,https://www.facebook.com/santetunisie.rns.tn/posts/4148182395220833
-Turkey,TUR,Pfizer/BioNTech,2021-05-22,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/
-Turkey,TUR,Sinovac,2021-05-22,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/
+Trinidad and Tobago,TTO,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://experience.arcgis.com/experience/59226cacd2b441c7a939dca13f832112/
+Tunisia,TUN,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://www.facebook.com/santetunisie.rns.tn/posts/4157386994300373
+Tunisia,TUN,Sinovac,2021-05-22,Ministry of Health,https://www.facebook.com/santetunisie.rns.tn/posts/4157386994300373
+Tunisia,TUN,Sputnik V,2021-05-22,Ministry of Health,https://www.facebook.com/santetunisie.rns.tn/posts/4157386994300373
+Turkey,TUR,Pfizer/BioNTech,2021-05-23,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/
+Turkey,TUR,Sinovac,2021-05-23,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/
 Turkmenistan,TKM,EpiVacCorona,2021-04-04,World Health Organization,https://covid19.who.int/
 Turkmenistan,TKM,Oxford/AstraZeneca,2021-04-04,World Health Organization,https://covid19.who.int/
 Turkmenistan,TKM,Sinopharm/Beijing,2021-04-04,World Health Organization,https://covid19.who.int/
 Turkmenistan,TKM,Sputnik V,2021-04-04,World Health Organization,https://covid19.who.int/
-Turks and Caicos Islands,TCA,Pfizer/BioNTech,2021-04-11,Ministry of Health,https://www.facebook.com/tcihealthpromotions/photos/1945783578924922
+Turks and Caicos Islands,TCA,Pfizer/BioNTech,2021-05-16,Ministry of Health,https://www.facebook.com/tcihealthpromotions/photos/1974299556073324
 Tuvalu,TUV,Oxford/AstraZeneca,2021-04-27,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
-Uganda,UGA,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://twitter.com/MinofHealthUG/status/1395685621084139520
-Ukraine,UKR,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://vaccination.covid19.gov.ua/
-Ukraine,UKR,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://vaccination.covid19.gov.ua/
-Ukraine,UKR,Sinovac,2021-05-22,Ministry of Health,https://vaccination.covid19.gov.ua/
-United Arab Emirates,ARE,Oxford/AstraZeneca,2021-05-21,National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
-United Arab Emirates,ARE,Pfizer/BioNTech,2021-05-21,National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
-United Arab Emirates,ARE,Sinopharm/Beijing,2021-05-21,National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
-United Arab Emirates,ARE,Sinopharm/Wuhan,2021-05-21,National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
-United Arab Emirates,ARE,Sputnik V,2021-05-21,National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
-United Kingdom,GBR,Moderna,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-United Kingdom,GBR,Oxford/AstraZeneca,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-United Kingdom,GBR,Pfizer/BioNTech,2021-05-21,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-United States,USA,Johnson&Johnson,2021-05-22,Centers for Disease Control and Prevention,https://covid.cdc.gov/covid-data-tracker/#vaccinations
-United States,USA,Moderna,2021-05-22,Centers for Disease Control and Prevention,https://covid.cdc.gov/covid-data-tracker/#vaccinations
-United States,USA,Pfizer/BioNTech,2021-05-22,Centers for Disease Control and Prevention,https://covid.cdc.gov/covid-data-tracker/#vaccinations
-Uruguay,URY,Oxford/AstraZeneca,2021-05-22,Ministry of Health,https://monitor.uruguaysevacuna.gub.uy/
-Uruguay,URY,Pfizer/BioNTech,2021-05-22,Ministry of Health,https://monitor.uruguaysevacuna.gub.uy/
-Uruguay,URY,Sinovac,2021-05-22,Ministry of Health,https://monitor.uruguaysevacuna.gub.uy/
-Uzbekistan,UZB,Oxford/AstraZeneca,2021-05-18,Government of Uzbekistan,https://kun.uz/en/news/2021/05/19/uzbekistan-receives-500-thousand-doses-of-sino-uzbek-vaccine
-Uzbekistan,UZB,RBD-Dimer,2021-05-18,Government of Uzbekistan,https://kun.uz/en/news/2021/05/19/uzbekistan-receives-500-thousand-doses-of-sino-uzbek-vaccine
-Uzbekistan,UZB,Sputnik V,2021-05-18,Government of Uzbekistan,https://kun.uz/en/news/2021/05/19/uzbekistan-receives-500-thousand-doses-of-sino-uzbek-vaccine
+Uganda,UGA,Oxford/AstraZeneca,2021-05-21,Ministry of Health,https://twitter.com/MinofHealthUG/status/1396425324062289920
+Ukraine,UKR,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://vaccination.covid19.gov.ua/
+Ukraine,UKR,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://vaccination.covid19.gov.ua/
+Ukraine,UKR,Sinovac,2021-05-23,Ministry of Health,https://vaccination.covid19.gov.ua/
+United Arab Emirates,ARE,Oxford/AstraZeneca,2021-05-23,National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
+United Arab Emirates,ARE,Pfizer/BioNTech,2021-05-23,National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
+United Arab Emirates,ARE,Sinopharm/Beijing,2021-05-23,National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
+United Arab Emirates,ARE,Sinopharm/Wuhan,2021-05-23,National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
+United Arab Emirates,ARE,Sputnik V,2021-05-23,National Emergency Crisis and Disaster Management Authority,http://covid19.ncema.gov.ae/en
+United Kingdom,GBR,Moderna,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+United Kingdom,GBR,Oxford/AstraZeneca,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+United Kingdom,GBR,Pfizer/BioNTech,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+United States,USA,Johnson&Johnson,2021-05-23,Centers for Disease Control and Prevention,https://covid.cdc.gov/covid-data-tracker/#vaccinations
+United States,USA,Moderna,2021-05-23,Centers for Disease Control and Prevention,https://covid.cdc.gov/covid-data-tracker/#vaccinations
+United States,USA,Pfizer/BioNTech,2021-05-23,Centers for Disease Control and Prevention,https://covid.cdc.gov/covid-data-tracker/#vaccinations
+Uruguay,URY,Oxford/AstraZeneca,2021-05-23,Ministry of Health,https://monitor.uruguaysevacuna.gub.uy/
+Uruguay,URY,Pfizer/BioNTech,2021-05-23,Ministry of Health,https://monitor.uruguaysevacuna.gub.uy/
+Uruguay,URY,Sinovac,2021-05-23,Ministry of Health,https://monitor.uruguaysevacuna.gub.uy/
+Uzbekistan,UZB,Oxford/AstraZeneca,2021-05-23,Government of Uzbekistan,http://zamon.uz/en/to-date-1-183-943-people-have-been-vaccinated-in-the-first-stage-and-416-561-people-have-been-vaccinated-in-the-second-stage-in-uzbekistan/
+Uzbekistan,UZB,RBD-Dimer,2021-05-23,Government of Uzbekistan,http://zamon.uz/en/to-date-1-183-943-people-have-been-vaccinated-in-the-first-stage-and-416-561-people-have-been-vaccinated-in-the-second-stage-in-uzbekistan/
+Uzbekistan,UZB,Sputnik V,2021-05-23,Government of Uzbekistan,http://zamon.uz/en/to-date-1-183-943-people-have-been-vaccinated-in-the-first-stage-and-416-561-people-have-been-vaccinated-in-the-second-stage-in-uzbekistan/
 Venezuela,VEN,Sputnik V,2021-05-19,Government of Venezuela,https://curadas.com/2021/05/19/ops-en-venezuela-solo-se-han-aplicado-316-000-dosis-de-vacunas-contra-el-coronavirus/
 Vietnam,VNM,Oxford/AstraZeneca,2021-05-18,Government of Vietnam,https://ncov.moh.gov.vn/en/web/guest/-/6847426-3679
-Wales,OWID_WLS,Moderna,2021-05-20,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-Wales,OWID_WLS,Oxford/AstraZeneca,2021-05-20,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
-Wales,OWID_WLS,Pfizer/BioNTech,2021-05-20,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Wales,OWID_WLS,Moderna,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Wales,OWID_WLS,Oxford/AstraZeneca,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
+Wales,OWID_WLS,Pfizer/BioNTech,2021-05-22,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/healthcare
 Wallis and Futuna,WLF,Oxford/AstraZeneca,2021-05-18,SPC Public Health Division,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0
 Yemen,YEM,Oxford/AstraZeneca,2021-05-09,World Health Organization,https://covid19.who.int/
-Zambia,ZMB,Oxford/AstraZeneca,2021-05-22,Government of Zambia,https://www.facebook.com/mohzambia/posts/1914754358699212
-Zimbabwe,ZWE,Sinopharm/Beijing,2021-05-21,Ministry of Health,https://twitter.com/MoHCCZim/status/1395814192372981760
+Zambia,ZMB,Oxford/AstraZeneca,2021-05-23,Government of Zambia,https://www.facebook.com/mohzambia/photos/a.773733439467982/1915861658588482/
+Zimbabwe,ZWE,Sinopharm/Beijing,2021-05-23,Ministry of Health,https://twitter.com/MoHCCZim/status/1396554749919518723
